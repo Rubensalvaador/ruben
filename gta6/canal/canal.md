@@ -1,36 +1,60 @@
-# 2 · El canal
+# Kit del canal · Expediente Leonida
 
-## 5 nombres propuestos
-| Nombre | A favor | En contra |
+Todo listo para copiar y subir en **YouTube Studio → Personalización**. Las imágenes se regeneran con `python3 herramientas/canal_arte.py`.
+
+![Vista previa](vista_previa.jpg)
+
+## 1 · Nombre e identificador
+| Campo | Valor |
+|---|---|
+| **Nombre del canal** | **Expediente Leonida** |
+| **Identificador** | `@ExpedienteLeonida` (alternativas si está cogido: `@ExpedienteLeonidaES`, `@ExpLeonida`) |
+| **Lema** | *Lo confirmado, por un lado; la teoría, por otro.* |
+
+**Por qué este nombre:** suena a investigación y rigor (cada vídeo es un «expediente») y Leonida es el estado donde transcurre GTA 6, así que conecta con el juego sin usar «GTA» ni «Rockstar». Esas dos son marcas registradas y meterlas en el nombre del canal puede acabar en una reclamación. Además, permite series como «Expediente: atracos» o «Expediente: secretos».
+
+Otras opciones que se descartaron: Neón Leonida (suena a estética, no a información), Señal Vice (demasiado genérico), Archivo Vice City (se confunde con el juego de 2002) y Ruta Leonida (encaja peor con los análisis).
+
+## 2 · Imágenes
+| Archivo | Dónde va | Notas |
 |---|---|---|
-| **Expediente Leonida** ✅ | Transmite investigación y rigor, encaja con el sello «dato / teoría» y es fácil de recordar | «Leonida» está muy ligado a GTA 6, así que habría que ampliarlo si el canal cambia de juego |
-| Neón Leonida | Muy visual, va con el estilo | Suena a estética, no a información |
-| Señal Vice | Corto, sirve para shorts | «Vice» es genérico y hay muchos canales parecidos |
-| Archivo Vice City | Nostálgico y buscable | Choca con la búsqueda de la Vice City de 2002 |
-| Ruta Leonida | Va bien con guías y recorridos | Menos claro para los análisis |
+| `avatar_800x800.png` | Foto de perfil | Lupa de neón turquesa con el monograma **EL**, sobre el skyline nocturno. Se reconoce a 98, 48 y 24 px (ver la vista previa) |
+| `banner_2560x1440.jpg` | Imagen del banner | 572 KB (el límite es 6 MB). El texto va dentro de la zona segura de 1546x423, que se ve en móvil, TV y escritorio |
+| `banner_guia_zona_segura.jpg` | Solo para revisar | Verde: zona segura. Amarillo: lo que se ve en escritorio |
+| `marca_agua_150x150.png` | Marca de agua del vídeo | Fondo transparente. Ponla en «Mostrar al final del vídeo» o «Durante todo el vídeo» |
 
-**Elegido: Expediente Leonida.** Evita usar «GTA» o «Rockstar» en el nombre, que son marcas registradas y suponen un riesgo de reclamación. Y permite pasar después a guías («Expediente: atracos», «Expediente: secretos»).
-Antes de crear el canal, comprueba que el nombre y el @identificador (`@ExpedienteLeonida`) estén libres.
+**Identidad:** magenta `#FF2E88`, turquesa `#19E3D0`, naranja `#FF7A1A`, amarillo `#FFD23F` y fondo índigo `#0E0622`. Tipografía Inter Display Black / Inter Bold (licencia libre SIL OFL). El fondo es una ilustración original generada con Nano Banana: nada de capturas, logos ni tipografías oficiales del juego.
 
-## Texto del «Acerca de»
-> **Expediente Leonida** analiza GTA 6 en español con una regla: **lo confirmado, por un lado; la teoría, por otro, y dicha en voz alta.**
-> Aquí encontrarás análisis largos del mapa de Leonida, sus personajes, los tráileres, las mecánicas, los vehículos y los atracos. Y, desde el lanzamiento, guías, secretos de la comunidad y vídeos de expectativas contra realidad.
-> Sin clickbait, sin filtraciones y sin inventar.
-> 🗓️ Vídeos nuevos cada semana.
-> ✉️ Contacto profesional: [tu email]
-> *Canal no afiliado a Rockstar Games ni a Take-Two Interactive. Las imágenes son ilustraciones originales; no usamos capturas ni material oficial del juego.*
+## 3 · Descripción del canal («Acerca de»)
+```
+Expediente Leonida analiza GTA 6 en español con una regla: lo confirmado, por un lado; la teoría, por otro, y dicha en voz alta.
 
-## Logo · `logo_800x800.png` (maqueta generada)
-- **Idea:** monograma **«EL»** blanco con contorno magenta, sobre un sol retro de franjas en un círculo con borde turquesa, con palmeras y skyline en silueta. Se lee bien a 98 px, que es como se ve en YouTube.
-- **Paleta:** magenta `#FF2E88`, naranja `#FF7A1A`, turquesa `#19E3D0`, amarillo `#FFD23F` y fondo índigo `#0E0622`.
-- **Tipografía:** Inter Display Black, libre (SIL OFL).
-- Para la versión final, se puede pedir a Nano Banana una ilustración del sol y el skyline y poner encima el «EL» con `arte.py`.
+Aquí encontrarás análisis del mapa de Leonida, sus personajes, los tráileres, las mecánicas, los vehículos y los atracos. Y, desde el lanzamiento, guías prácticas, secretos de la comunidad y expectativas contra realidad.
 
-## Banner · `banner_2560x1440.png` (maqueta generada)
-- Atardecer neón con el sol de franjas en el centro, skyline costero, reflejo en el agua y palmeras en los bordes.
-- El texto **EXPEDIENTE LEONIDA** y la frase «GTA 6 · DATOS CONFIRMADOS, TEORÍAS SEÑALADAS» van **dentro de la zona segura de 1546x423**, la que se ve en todos los dispositivos. `banner_guia_zona_segura.png` la muestra en verde.
-- Nada de logos, capturas ni tipografías oficiales del juego.
+Sin clickbait, sin filtraciones y sin inventar.
+🗓️ Vídeo nuevo cada semana.
+✉️ Contacto profesional: [tu email]
 
-## Identidad de los vídeos
-- Estilo visual fijo: `herramientas/estilo.json`. Atardecer neón, ciudad costera, personas en silueta o de espaldas, sin texto ni logos.
-- Miniaturas: dos líneas de 1 a 3 palabras, la primera en blanco y la segunda en color de acento, con el sello del canal arriba a la derecha.
+Canal no afiliado a Rockstar Games ni a Take-Two Interactive. Las imágenes son ilustraciones originales: no usamos capturas ni material oficial del juego.
+```
+
+## 4 · Palabras clave del canal
+(Studio → Configuración → Canal → Palabras clave)
+```
+GTA 6, GTA VI, Grand Theft Auto 6, Leonida, Vice City, Jason y Lucia, GTA 6 español, GTA 6 noticias, GTA 6 análisis, GTA 6 mapa, GTA 6 tráiler, GTA 6 guía, GTA 6 Online, Expediente Leonida
+```
+
+## 5 · Enlaces y ajustes
+- **Enlaces del banner:** 1) Lista «Todos los expedientes», 2) Vídeo 09 «Antes de jugar», 3) tu red social principal si tienes.
+- **Idioma del canal:** español. **País:** España.
+- **Vídeo de bienvenida para quien no está suscrito:** el 09 («Antes de jugar», el más práctico). Como vídeo destacado para suscriptores, el último publicado.
+- **Secciones de la página principal:** 1) Último vídeo, 2) Lista «Guías prácticas» (09, 08), 3) Lista «Análisis de Leonida» (01–07), 4) Lista «GTA 6 Online» (10).
+- **Valores predeterminados de subida:** categoría «Videojuegos», idioma «Español (España)», licencia estándar y la casilla «contenido alterado o sintético» marcada (las ilustraciones y la voz son de IA).
+
+## 6 · Pasos para montarlo (unos 10 minutos)
+1. Crea el canal en youtube.com → Crear un canal → nombre **Expediente Leonida**.
+2. Studio → Personalización → **Perfil**: sube `avatar_800x800.png`, define el identificador y pega la descripción.
+3. **Imagen del banner**: sube `banner_2560x1440.jpg` y comprueba en la previsualización que el texto se ve entero en móvil y en TV.
+4. **Marca de agua**: sube `marca_agua_150x150.png`.
+5. Configuración → Canal: palabras clave y país. Configuración → **Valores predeterminados de subida**: lo del punto 5.
+6. Crea las listas y las secciones de la página principal.

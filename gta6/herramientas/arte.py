@@ -248,5 +248,5 @@ if __name__ == "__main__":
     que = sys.argv[1] if len(sys.argv) > 1 else "todo"
     fondo = sys.argv[3] if len(sys.argv) > 3 and sys.argv[2] == "--fondo" else None
     if que in ("todo", "miniaturas"): miniaturas(fondo)
-    if que in ("todo", "logo"): logo()
-    if que in ("todo", "banner"): banner()
+    if que == "logo": logo()  # maqueta antigua; la versión final la hace canal_arte.py
+    if que == "banner": banner()  # maqueta antigua; la versión final la hace canal_arte.py
