@@ -15,21 +15,21 @@ Guía práctica para el lanzamiento de GTA 6: espacio necesario (hasta 212 GB se
 
 ⏱️ CAPÍTULOS
 0:00 Gancho
-0:12 Bienvenida
-0:54 Fecha y plataformas
-1:50 El espacio: hasta 212 GB
-3:23 La precarga
-4:08 Las ediciones y el precio
-5:23 Bonificaciones de reserva: el pack vintage de Vice City
-6:22 Versión física: cuidado con la caja
-7:04 ¿Qué consola rinde mejor?
-9:05 Ajustes recomendados para el primer día
-9:54 El precio en contexto
-11:11 Mitos y estafas del día de lanzamiento
-12:21 Cosas que no debes hacer el día de lanzamiento
-12:59 Una checklist para esta noche
-13:48 Resumen
-14:37 Cierre
+0:15 Bienvenida
+1:00 Fecha y plataformas
+2:02 El espacio: hasta 212 GB
+3:53 La precarga
+4:42 Las ediciones y el precio
+5:58 Bonificaciones de reserva: el pack vintage de Vice City
+7:07 Versión física: cuidado con la caja
+7:51 ¿Qué consola rinde mejor?
+10:08 Ajustes recomendados para el primer día
+11:04 El precio en contexto
+12:23 Mitos y estafas del día de lanzamiento
+13:46 Cosas que no debes hacer el día de lanzamiento
+14:25 Una checklist para esta noche
+15:19 Resumen
+16:17 Cierre
 
 ▶️ Siguiente vídeo: GTA 6 ONLINE: ¿cuándo sale? Lo que se sabe de verdad → {enlace_siguiente}
 

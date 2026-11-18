@@ -19,10 +19,12 @@ Texto legible generado por la IA, desenfocado con PIL:
 
 Revisadas y aceptadas: E04 (un «18» borroso en el calendario), E03 y E41 (números de reloj), E05, E24 y E25 (consolas con un diseño parecido al de modelos reales, aunque sin logos).
 
-## Pendiente
-- **Voz**: `voz_local.py` necesita `pico2wave` (`apt-get install libttspico-utils`) y en esta sesión no se ha podido instalar porque el permiso de instalar paquetes del sistema fue denegado. Con la voz hecha, solo falta:
-  ```bash
-  python3 gta6/herramientas/voz_local.py gta6/09-antes-de-jugar-212gb-ediciones
-  cd gta6/herramientas && python3 montaje.py ../09-antes-de-jugar-212gb-ediciones --musica ../musica/03_expediente_nocturno.mp3 --quemar-subs && python3 subida.py
-  ```
-- Mientras tanto, existe `video_borrador.mp4` (montaje con silencio en lugar de voz y duraciones estimadas) para revisar las imágenes, el ritmo, la música y los subtítulos.
+## Resultado
+- Voz: `voz_local.py` (pico2wave, es-ES), 44 pistas en `voz/`, 16,4 min.
+- `video_final.mp4`: **17:01** (1.020,9 s), 1920x1080 a 30 fps, voz a -16 LUFS, música `03_expediente_nocturno.mp3` con ducking, subtítulos quemados y 20 s de pantalla final.
+- `subtitulos.srt` y `capitulos.txt` con los tiempos reales; `subida.md` regenerado.
+- Corregido `montaje.py`: los márgenes de los subtítulos quemados estaban en píxeles de 1080p, pero libass usa la escala 384x288 para los SRT, así que salían palabra a palabra.
+
+## Pendiente a mano
+- Escuchar la voz completa: pico2wave es una voz sintética básica. Si no convence, cambiarla por la de ElevenLabs (`voz_elevenlabs.py`) y volver a ejecutar `montaje.py` y `subida.py`.
+- Al subir: marcar «contenido alterado o sintético» y sustituir `{enlace_siguiente}`, `{musica}` y `{playlist}` en la descripción.
