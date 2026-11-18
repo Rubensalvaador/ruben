@@ -28,6 +28,7 @@ gta6/
 | `herramientas/voz_elevenlabs.py` | Genera un mp3 por escena con la API de ElevenLabs (`ELEVENLABS_VOICE_ID`) y mantiene la entonación entre escenas |
 | `herramientas/montaje.py` | Monta el vídeo en 1920x1080 a 30 fps: Ken Burns sobre las imágenes, clips de Veo, voz normalizada a -16 LUFS, música a -20 dB con ducking, subtítulos (en archivo y opcionalmente quemados) y 20 s de pantalla final. Reescribe los capítulos con los tiempos reales. **Probado** con material provisional |
 | `herramientas/arte.py` | Miniaturas, logo y banner. `miniaturas --fondo escenas/E01.png` para la versión final |
+| `herramientas/musica.py` | Compone las 3 pistas synthwave originales de `musica/` |
 | `herramientas/subida.py` | Genera `subida.md` a partir de `metadatos.json` y `capitulos.txt` |
 
 Flujo por vídeo, cuando haya escenas y voz:
@@ -54,12 +55,12 @@ python3 arte.py miniaturas --fondo escenas/E01.png
 | 10 | GTA 6 Online | ✅ 14,8 min* | ⏳ 46 / 5 | ⏳ | ⏳ | 🟡 provisional | ✅ |
 
 \*Más 20 s de pantalla final; todos superan los 15 min. Las duraciones están estimadas a unas 153 palabras por minuto, así que la voz real puede variar ±10 %.
-⏳ = esperando tu OK, el acceso a Eviolite, la voz de ElevenLabs y la música (ver `02_costes_y_aprobacion.md`).
+⏳ = bloqueado por el acceso a Eviolite y ElevenLabs (ver `02_costes_y_aprobacion.md`). **Música: ✅ 3 pistas originales en `musica/`.**
 
 ## Pendiente a mano
-1. **Dar el OK a los costes** y facilitar el acceso a Eviolite (API o conector) o generar tú las escenas desde `prompts.csv`.
-2. **Elegir la voz de ElevenLabs** y dar la clave de API, mediante el formulario seguro.
-3. **Descargar música con licencia** a `gta6/musica/` (Biblioteca de audio de YouTube o tu suscripción).
+1. **Dar acceso a Eviolite**: conector `https://eviolite.app/api/mcp` en claude.ai y una sesión nueva, o una API key como network secret. Las decisiones del plan ya están tomadas.
+2. **Dar acceso a ElevenLabs** (API key como network secret con la cabecera `xi-api-key`). La voz ya está elegida (ver `02_costes_y_aprobacion.md`).
+3. ~~Música~~ ✅ hecha (`musica/`, original).
 4. **Revisar cada guion** contra la web oficial de Rockstar. Desde aquí no se pudo abrir y los datos vienen de la prensa vía buscador. Hay que prestar especial atención a: el precio y lo que incluye la Ultimate, la fecha de la precarga, los 30 fps (marcado como rumor), las descripciones de las regiones y lo que dicen exactamente las fichas de los personajes.
 5. **Comprobar las sugerencias de YouTube** y la competencia en español (no se pudieron consultar desde aquí).
 6. **Crear el canal** (comprobar que `@ExpedienteLeonida` está libre) y subir el logo y el banner.

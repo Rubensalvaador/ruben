@@ -1,4 +1,15 @@
-# 4 · Escenas: qué hay que generar y coste (PENDIENTE DE TU OK)
+# 4 · Escenas: qué hay que generar y coste
+
+## Decisiones tomadas (me pediste que eligiera yo)
+- **Plan A**: 1 imagen por escena (445 en total) y 54 clips de 8 s de Veo 3.1 Lite. Es lo más barato que mantiene el ritmo, porque el movimiento Ken Burns evita las imágenes estáticas. Si un vídeo retiene mal, se rehacen solo sus escenas largas con una segunda imagen.
+- **Orden de generación**: vídeo 09 primero, como piloto, para revisar el estilo y el coste real antes de hacer los otros 9. Después 08, 10 y el resto por número.
+- **Voz**: narrador masculino en **español de España**, tono documental cercano. Buscarla en la Voice Library de ElevenLabs con los filtros Spanish, Spain y Narration. Si no hay ninguna que convenza, la de respaldo es la voz prediseñada **«Adam» (`pNInz6obpgDQGcFmaJgB`)** con el modelo `eleven_multilingual_v2`, aunque tiene algo de acento. Ajustes en `herramientas/voz_elevenlabs.py`: estabilidad 0.45, similitud 0.8, estilo 0.15.
+- **Música**: ✅ **hecha**. Son 3 pistas synthwave **compuestas desde cero** con `herramientas/musica.py`, sin samples ni material de terceros, así que no hay licencias que pagar ni reclamaciones de Content ID. Están en `musica/`:
+  - `01_atardecer_en_leonida.mp3` → vídeos 01, 04, 07 y 10
+  - `02_autopista_neon.mp3` → vídeos 02, 05 y 08
+  - `03_expediente_nocturno.mp3` → vídeos 03, 06 y 09
+  Si prefieres algo más profesional, cámbialas por pistas de la Biblioteca de audio de YouTube con el mismo nombre de archivo.
+
 
 No se ha generado **nada** todavía. Como pediste, esperamos a tu OK. Además hay dos bloqueos:
 1. **No hay acceso a Eviolite desde esta sesión.** No aparece ningún conector ni API de Eviolite, y tampoco he encontrado su tabla de precios en la web. Por eso **no puedo darte la cifra exacta en créditos**: te doy las cantidades exactas por vídeo y la fórmula. Con tu tarifa sale el número al momento.
@@ -33,12 +44,9 @@ Otras plataformas con los mismos modelos publican, por ejemplo, unos 3–120 cr�
 ## Voz (ElevenLabs)
 Unos 12.500–13.000 caracteres por vídeo, **127.108 caracteres en total**, con el modelo `eleven_multilingual_v2`. Los créditos de ElevenLabs equivalen más o menos a caracteres según el plan, así que haría falta un plan con unos 130 K caracteres o más, más margen para repeticiones.
 
-## Música con licencia
-No puedo comprar ni descargar licencias por ti. Opciones:
-- **Biblioteca de audio de YouTube** (gratis, sin reclamaciones). Descarga 2–3 pistas synthwave o retrowave y déjalas en `gta6/musica/`.
-- Epidemic Sound o Artlist, si tienes suscripción; recuerda añadir tu canal a la licencia.
 
-## Qué necesito de ti para seguir
-1. **OK al plan de escenas** (A o B) y la **tarifa de Eviolite**, o acceso a su API o conector. Si no hay API, también puedes generar tú con `prompts.csv` y dejar los archivos en `NN-…/escenas/E01.png`, `E01.mp4`…
-2. **Voz de ElevenLabs** (nombre o ID) y la clave. Te la pediré con un formulario seguro; nunca la pegues en el chat.
-3. **Música:** pistas en `gta6/musica/`.
+## Qué falta para generar (bloqueado)
+Esta sesión **no tiene red hacia `eviolite.app` ni hacia `api.elevenlabs.io`**, y los formularios para guardar las claves se rechazaron. Para desbloquearlo, elige una de estas vías:
+1. **Eviolite como conector (recomendado):** en https://claude.ai/customize/connectors, añade un conector personalizado con la URL `https://eviolite.app/api/mcp`, autorízalo y **abre una sesión nueva** sobre esta rama. Los conectores se cargan al empezar la sesión.
+2. **Claves de API:** créalas en Eviolite (My account) y en ElevenLabs y guárdalas como *network secrets* en la configuración del entorno de la nube (`eviolite.app`; `api.elevenlabs.io` con la cabecera `xi-api-key`). Con eso se abren también esos dominios.
+3. **Manual:** genera tú en Eviolite con `NN-…/prompts.csv` y deja `escenas/E01.png`, `E01.mp4`… Y la voz en `voz/E01.mp3`… Lo demás se monta con `montaje.py`.
