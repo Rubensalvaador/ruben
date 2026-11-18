@@ -1,996 +1,996 @@
 1
-00:00:00,000 --> 00:00:03,631
+00:00:00,000 --> 00:00:02,495
 Hasta doscientos doce gigas, dos ediciones,
 
 2
-00:00:03,631 --> 00:00:08,361
+00:00:02,495 --> 00:00:05,745
 un pack de regalo con fecha de caducidad y una pregunta:
 
 3
-00:00:08,361 --> 00:00:10,472
+00:00:05,745 --> 00:00:07,196
 ¿qué consola rinde mejor?
 
 4
-00:00:10,472 --> 00:00:14,864
+00:00:07,196 --> 00:00:10,214
 Todo lo que necesitas saber antes de encender GTA 6.
 
 5
-00:00:15,214 --> 00:00:17,755
+00:00:10,564 --> 00:00:12,460
 Bienvenido a Expediente Leonida.
 
 6
-00:00:17,755 --> 00:00:20,773
+00:00:12,460 --> 00:00:14,712
 Este es el vídeo práctico de la serie:
 
 7
-00:00:20,773 --> 00:00:24,665
+00:00:14,712 --> 00:00:17,616
 el que te ahorra problemas el día de lanzamiento.
 
 8
-00:00:24,665 --> 00:00:29,827
+00:00:17,616 --> 00:00:21,467
 Espacio en disco, ediciones, bonificaciones de reserva, consolas,
 
 9
-00:00:29,827 --> 00:00:32,686
+00:00:21,467 --> 00:00:23,601
 versión física y hora de desbloqueo.
 
 10
-00:00:32,686 --> 00:00:38,881
+00:00:23,601 --> 00:00:28,223
 Y como siempre, te diré qué es oficial, qué viene de la prensa y qué es rumor.
 
 11
-00:00:39,231 --> 00:00:41,236
+00:00:28,573 --> 00:00:30,153
 Un apunte antes de empezar.
 
 12
-00:00:41,236 --> 00:00:45,248
+00:00:30,153 --> 00:00:33,315
 Hay datos que pueden variar según tu país y tu tienda,
 
 13
-00:00:45,248 --> 00:00:49,334
+00:00:33,315 --> 00:00:36,535
 como el precio exacto en euros o la hora de desbloqueo.
 
 14
-00:00:49,334 --> 00:00:53,866
+00:00:36,535 --> 00:00:40,106
 Para esos datos, te recomiendo comprobar siempre la tienda de
 
 15
-00:00:53,866 --> 00:00:57,135
+00:00:40,106 --> 00:00:42,682
 tu consola o el soporte oficial de Rockstar.
 
 16
-00:00:57,135 --> 00:01:00,181
+00:00:42,682 --> 00:00:45,082
 Yo te doy el marco general y las fuentes.
 
 17
-00:01:00,531 --> 00:01:01,456
+00:00:45,432 --> 00:00:46,069
 Lo básico.
 
 18
-00:01:01,456 --> 00:01:07,008
+00:00:46,069 --> 00:00:49,894
 GTA 6 sale el diecinueve de noviembre de dos mil veintiséis,
 
 19
-00:01:07,008 --> 00:01:11,357
+00:00:49,894 --> 00:00:52,889
 en PlayStation 5 y en Xbox Series X y Series S.
 
 20
-00:01:11,357 --> 00:01:15,151
+00:00:52,889 --> 00:00:55,503
 No sale en PC, ni en PS4, ni en Xbox One.
 
 21
-00:01:15,151 --> 00:01:21,350
+00:00:55,503 --> 00:00:59,773
 Si tienes una consola de la generación anterior, no podrás jugarlo.
 
 22
-00:01:21,700 --> 00:01:26,946
+00:01:00,123 --> 00:01:03,789
 Esto es importante porque mucha gente pregunta si saldrá en PS4.
 
 23
-00:01:26,946 --> 00:01:28,504
+00:01:03,789 --> 00:01:04,878
 La respuesta es no.
 
 24
-00:01:28,504 --> 00:01:33,340
+00:01:04,878 --> 00:01:08,258
 GTA 6 se ha diseñado para la generación actual de consolas,
 
 25
-00:01:33,340 --> 00:01:38,094
+00:01:08,258 --> 00:01:11,580
 y Rockstar nunca lo ha anunciado para consolas anteriores.
 
 26
-00:01:38,094 --> 00:01:42,520
+00:01:11,580 --> 00:01:14,673
 Y sobre el PC, tienes un vídeo completo en esta serie.
 
 27
-00:01:42,870 --> 00:01:44,989
+00:01:15,023 --> 00:01:16,652
 Sobre la hora de lanzamiento:
 
 28
-00:01:44,989 --> 00:01:48,788
+00:01:16,652 --> 00:01:19,571
 según varias guías que citan el soporte de Rockstar,
 
 29
-00:01:48,788 --> 00:01:53,318
+00:01:19,571 --> 00:01:23,053
 el juego se desbloquea a medianoche hora local en cada región.
 
 30
-00:01:53,318 --> 00:01:55,875
+00:01:23,053 --> 00:01:25,018
 Esto lo marco como según la prensa,
 
 31
-00:01:55,875 --> 00:02:00,040
+00:01:25,018 --> 00:01:28,218
 porque las horas pueden variar según la tienda y la zona.
 
 32
-00:02:00,040 --> 00:02:01,939
+00:01:28,218 --> 00:01:29,678
 Compruébalo en tu consola.
 
 33
-00:02:02,289 --> 00:02:05,500
+00:01:30,028 --> 00:01:32,085
 Ahora, el dato que más ha sorprendido.
 
 34
-00:02:05,500 --> 00:02:12,428
+00:01:32,085 --> 00:01:36,523
 Rockstar ha confirmado que la precarga de GTA 6 ocupa hasta doscientos doce gigas,
 
 35
-00:02:12,428 --> 00:02:14,202
+00:01:36,523 --> 00:01:37,660
 según el dispositivo.
 
 36
-00:02:14,202 --> 00:02:16,399
+00:01:37,660 --> 00:01:39,067
 Ese "hasta" es importante:
 
 37
-00:02:16,399 --> 00:02:21,045
+00:01:39,067 --> 00:01:42,044
 es el máximo, no la cifra exacta en todas las consolas.
 
 38
-00:02:21,395 --> 00:02:26,162
+00:01:42,394 --> 00:01:45,958
 Antes de este dato oficial circularon cifras de todo tipo:
 
 39
-00:02:26,162 --> 00:02:30,847
+00:01:45,958 --> 00:01:49,459
 seiscientos gigas, setecientos, incluso más. Eran falsas.
 
 40
-00:02:30,847 --> 00:02:35,778
+00:01:49,459 --> 00:01:53,145
 La única cifra oficial es la de hasta doscientos doce gigas.
 
 41
-00:02:35,778 --> 00:02:42,189
+00:01:53,145 --> 00:01:57,937
 Y es un buen ejemplo de por qué conviene fiarse solo de las fuentes oficiales.
 
 42
-00:02:42,539 --> 00:02:45,657
+00:01:58,287 --> 00:02:00,619
 ¿Cabe en tu consola? Hagamos cuentas.
 
 43
-00:02:45,657 --> 00:02:51,977
+00:02:00,619 --> 00:02:05,346
 La Xbox Series S tiene unos trescientos sesenta y cuatro gigas utilizables.
 
 44
-00:02:51,977 --> 00:02:58,803
+00:02:05,346 --> 00:02:10,451
 Si el juego ocupa cerca de doscientos doce, te quedará espacio para muy poco más.
 
 45
-00:02:58,803 --> 00:03:03,437
+00:02:10,451 --> 00:02:13,917
 La PlayStation 5 y la Xbox Series X tienen más espacio,
 
 46
-00:03:03,437 --> 00:03:10,516
+00:02:13,917 --> 00:02:19,211
 pero si tienes muchos juegos instalados, es muy probable que tengas que borrar algo.
 
 47
-00:03:10,866 --> 00:03:12,388
+00:02:19,561 --> 00:02:20,706
 Un consejo práctico:
 
 48
-00:03:12,388 --> 00:03:18,326
+00:02:20,706 --> 00:02:25,171
 si tu consola admite ampliar el almacenamiento, es buen momento para pensarlo.
 
 49
-00:03:18,326 --> 00:03:22,818
+00:02:25,171 --> 00:02:28,549
 Pero ojo, compra solo unidades compatibles con tu consola y
 
 50
-00:03:22,818 --> 00:03:25,787
+00:02:28,549 --> 00:02:30,781
 sigue las instrucciones del fabricante.
 
 51
-00:03:25,787 --> 00:03:27,537
+00:02:30,781 --> 00:02:32,098
 Y si no quieres gastar,
 
 52
-00:03:27,537 --> 00:03:33,932
+00:02:32,098 --> 00:02:36,907
 revisa qué juegos no tocas desde hace meses y bórralos antes del día de lanzamiento.
 
 53
-00:03:34,282 --> 00:03:36,774
+00:02:37,257 --> 00:02:39,106
 Y un detalle que nadie te cuenta:
 
 54
-00:03:36,774 --> 00:03:38,964
+00:02:39,106 --> 00:02:40,732
 además del espacio del juego,
 
 55
-00:03:38,964 --> 00:03:45,156
+00:02:40,732 --> 00:02:45,328
 suele hacer falta espacio extra durante la instalación y para las actualizaciones.
 
 56
-00:03:45,156 --> 00:03:47,346
+00:02:45,328 --> 00:02:46,954
 Si vas justo, deja un margen.
 
 57
-00:03:47,346 --> 00:03:52,933
+00:02:46,954 --> 00:02:51,102
 Y ten en cuenta que el primer día puede haber una actualización adicional.
 
 58
-00:03:53,283 --> 00:03:56,915
+00:02:51,452 --> 00:02:54,087
 La precarga es la descarga anticipada del juego,
 
 59
-00:03:56,915 --> 00:04:01,378
+00:02:54,087 --> 00:02:57,325
 para que el día de salida solo tengas que encender y jugar.
 
 60
-00:04:01,378 --> 00:04:06,750
+00:02:57,325 --> 00:03:01,223
 Para GTA 6, la precarga digital empezó unos días antes del lanzamiento,
 
 61
-00:04:06,750 --> 00:04:10,608
+00:03:01,223 --> 00:03:04,023
 aunque las fuentes no coinciden en la fecha exacta:
 
 62
-00:04:10,608 --> 00:04:14,694
+00:03:04,023 --> 00:03:06,987
 algunas hablan del diez de noviembre y otras del doce.
 
 63
-00:04:14,694 --> 00:04:18,552
+00:03:06,987 --> 00:03:09,787
 Si estás viendo esto el día de salida, ya da igual:
 
 64
-00:04:18,552 --> 00:04:24,604
+00:03:09,787 --> 00:03:14,178
 lo importante es que, si compras ahora, la descarga completa puede tardar horas.
 
 65
-00:04:24,954 --> 00:04:25,596
+00:03:14,528 --> 00:03:14,975
 Consejo:
 
 66
-00:04:25,596 --> 00:04:32,091
+00:03:14,975 --> 00:03:19,502
 si vas a descargar el juego el mismo día, conecta la consola por cable si puedes,
 
 67
-00:04:32,091 --> 00:04:37,063
+00:03:19,502 --> 00:03:22,968
 deja la descarga en modo reposo y evita usar mucho la conexión
 
 68
-00:04:37,063 --> 00:04:38,827
+00:03:22,968 --> 00:03:24,197
 en otros dispositivos.
 
 69
-00:04:38,827 --> 00:04:42,195
+00:03:24,197 --> 00:03:26,544
 Con doscientos gigas, cada detalle cuenta.
 
 70
-00:04:42,545 --> 00:04:44,417
+00:03:26,894 --> 00:03:28,271
 Pasamos a las ediciones.
 
 71
-00:04:44,417 --> 00:04:49,564
+00:03:28,271 --> 00:03:32,057
 Según la cobertura de múltiples medios, GTA 6 tiene dos ediciones:
 
 72
-00:04:49,564 --> 00:04:55,569
+00:03:32,057 --> 00:03:36,473
 la estándar, a setenta y nueve con noventa y nueve dólares en Estados Unidos,
 
 73
-00:04:55,569 --> 00:05:00,327
+00:03:36,473 --> 00:03:39,972
 y la Ultimate, a noventa y nueve con noventa y nueve dólares.
 
 74
-00:05:00,327 --> 00:05:04,070
+00:03:39,972 --> 00:03:42,725
 No se ha anunciado una edición de coleccionista.
 
 75
-00:05:04,420 --> 00:05:06,491
+00:03:43,075 --> 00:03:44,705
 Ojo con los precios en euros.
 
 76
-00:05:06,491 --> 00:05:10,349
+00:03:44,705 --> 00:03:47,742
 El precio en Europa y en otros países no siempre es la
 
 77
-00:05:10,349 --> 00:05:13,277
+00:03:47,742 --> 00:03:50,047
 conversión directa del precio en dólares,
 
 78
-00:05:13,277 --> 00:05:15,349
+00:03:50,047 --> 00:03:51,678
 y puede variar entre tiendas.
 
 79
-00:05:15,349 --> 00:05:18,420
+00:03:51,678 --> 00:03:54,096
 Por eso no te voy a dar una cifra en euros:
 
 80
-00:05:18,420 --> 00:05:20,206
+00:03:54,096 --> 00:03:55,501
 compruébala en tu tienda.
 
 81
-00:05:20,206 --> 00:05:25,921
+00:03:55,501 --> 00:03:59,1000
 Lo que sí es claro es que el precio de la edición estándar está por encima de lo
 
 82
-00:05:25,921 --> 00:05:29,707
+00:03:59,1000 --> 00:04:02,980
 que costaban los grandes lanzamientos hace unos años.
 
 83
-00:05:30,057 --> 00:05:31,925
+00:04:03,330 --> 00:04:04,727
 ¿Qué incluye la Ultimate?
 
 84
-00:05:31,925 --> 00:05:35,662
+00:04:04,727 --> 00:04:07,521
 Rockstar ha detallado su contenido en las tiendas,
 
 85
-00:05:35,662 --> 00:05:39,847
+00:04:07,521 --> 00:04:10,650
 pero los medios no coinciden del todo en la descripción.
 
 86
-00:05:39,847 --> 00:05:44,480
+00:04:10,650 --> 00:04:14,115
 Mi recomendación es que leas la descripción en la tienda de tu
 
 87
-00:05:44,480 --> 00:05:47,245
+00:04:14,115 --> 00:04:16,182
 consola antes de pagar la diferencia.
 
 88
-00:05:47,245 --> 00:05:50,085
+00:04:16,182 --> 00:04:18,306
 Y una pregunta que te ayuda a decidir:
 
 89
-00:05:50,085 --> 00:05:56,363
+00:04:18,306 --> 00:04:22,999
 si el contenido extra es para el modo online, recuerda que el online no tiene fecha.
 
 90
-00:05:56,363 --> 00:05:58,530
+00:04:22,999 --> 00:04:24,620
 Lo vemos en el próximo vídeo.
 
 91
-00:05:58,880 --> 00:06:04,297
+00:04:24,970 --> 00:04:29,012
 Las reservas abrieron el veinticinco de junio de dos mil veintiséis.
 
 92
-00:06:04,297 --> 00:06:10,351
+00:04:29,012 --> 00:04:33,530
 Y según la cobertura, todas las reservas incluyen el Vintage Vice City Pack,
 
 93
-00:06:10,351 --> 00:06:13,936
+00:04:33,530 --> 00:04:36,205
 un pack con estética de la Vice City clásica.
 
 94
-00:06:13,936 --> 00:06:18,317
+00:04:36,205 --> 00:04:39,474
 Además, las reservas digitales incluyen un mes de GTA+,
 
 95
-00:06:18,317 --> 00:06:21,424
+00:04:39,474 --> 00:04:41,793
 el servicio de suscripción de Rockstar.
 
 96
-00:06:21,774 --> 00:06:25,148
+00:04:42,143 --> 00:04:44,438
 Y aquí viene el dato con fecha de caducidad.
 
 97
-00:06:25,148 --> 00:06:27,525
+00:04:44,438 --> 00:04:46,055
 Según la información publicada,
 
 98
-00:06:27,525 --> 00:06:31,897
+00:04:46,055 --> 00:04:49,028
 las reservas y las compras realizadas antes del veinte de
 
 99
-00:06:31,897 --> 00:06:35,731
+00:04:49,028 --> 00:04:51,637
 noviembre de dos mil veintiséis incluyen ese pack.
 
 100
-00:06:35,731 --> 00:06:41,636
+00:04:51,637 --> 00:04:55,653
 Es decir, si compras el día de lanzamiento, el diecinueve, todavía entrarías.
 
 101
-00:06:41,636 --> 00:06:46,851
+00:04:55,653 --> 00:04:59,201
 Pero compruébalo en tu tienda, porque las condiciones pueden variar.
 
 102
-00:06:47,201 --> 00:06:48,537
+00:04:59,551 --> 00:05:00,553
 ¿Merece la pena?
 
 103
-00:06:48,537 --> 00:06:51,792
+00:05:00,553 --> 00:05:02,996
 El contenido es cosmético y nostálgico.
 
 104
-00:06:51,792 --> 00:06:53,377
+00:05:02,996 --> 00:05:04,187
 No cambia el juego.
 
 105
-00:06:53,377 --> 00:06:56,883
+00:05:04,187 --> 00:05:06,818
 Pero si te gusta Vice City de dos mil dos,
 
 106
-00:06:56,883 --> 00:07:00,639
+00:05:06,818 --> 00:05:09,637
 es un guiño bonito y es gratis con la compra.
 
 107
-00:07:00,639 --> 00:07:07,316
+00:05:09,637 --> 00:05:14,649
 Así que, si vas a comprarlo igualmente, no tiene sentido perderlo por unos días.
 
 108
-00:07:07,666 --> 00:07:09,423
+00:05:14,999 --> 00:05:16,388
 Ahora, un tema confuso.
 
 109
-00:07:09,423 --> 00:07:10,798
+00:05:16,388 --> 00:05:17,474
 La versión física.
 
 110
-00:07:10,798 --> 00:07:15,152
+00:05:17,474 --> 00:05:20,915
 Hay informaciones contradictorias sobre si la caja física
 
 111
-00:07:15,152 --> 00:07:19,583
+00:05:20,915 --> 00:05:24,417
 incluye el juego en un disco o solo un código de descarga.
 
 112
-00:07:19,583 --> 00:07:25,847
+00:05:24,417 --> 00:05:29,367
 Take-Two ha dicho que cualquier noticia sobre un disco jugable vendrá de Rockstar.
 
 113
-00:07:26,197 --> 00:07:28,247
+00:05:29,717 --> 00:05:31,230
 Así que mi consejo es claro:
 
 114
-00:07:28,247 --> 00:07:30,810
+00:05:31,230 --> 00:05:33,122
 si vas a comprar la versión física,
 
 115
-00:07:30,810 --> 00:07:36,523
+00:05:33,122 --> 00:05:37,339
 lee la parte de atrás de la caja o la descripción de la tienda antes de pagar.
 
 116
-00:07:36,523 --> 00:07:40,550
+00:05:37,339 --> 00:05:40,312
 Si pone que contiene un código o que requiere descarga,
 
 117
-00:07:40,550 --> 00:07:44,871
+00:05:40,312 --> 00:05:43,501
 ya sabes que vas a necesitar espacio y conexión igualmente.
 
 118
-00:07:44,871 --> 00:07:51,536
+00:05:43,501 --> 00:05:48,420
 Y si eso te importa, por ejemplo porque quieres revender el juego después, tenlo en cuenta.
 
 119
-00:07:51,886 --> 00:07:54,639
+00:05:48,770 --> 00:05:50,752
 Y llegamos a la pregunta del millón:
 
 120
-00:07:54,639 --> 00:07:56,933
+00:05:50,752 --> 00:05:52,403
 ¿en qué consola se verá mejor?
 
 121
-00:07:56,933 --> 00:07:58,462
+00:05:52,403 --> 00:05:53,504
 Primero, lo oficial.
 
 122
-00:07:58,462 --> 00:08:03,127
+00:05:53,504 --> 00:05:56,861
 Rockstar ha dicho que el tráiler de lanzamiento y el Extended
 
 123
-00:08:03,127 --> 00:08:07,640
+00:05:56,861 --> 00:06:00,108
 Look se grabaron en una PlayStation 5 normal, no en la Pro.
 
 124
-00:08:07,640 --> 00:08:14,063
+00:06:00,108 --> 00:06:04,731
 Eso significa que lo que viste en esos vídeos es lo que puede hacer la consola base.
 
 125
-00:08:14,413 --> 00:08:16,430
+00:06:05,081 --> 00:06:06,544
 Segundo, lo que es rumor.
 
 126
-00:08:16,430 --> 00:08:20,865
+00:06:06,544 --> 00:06:09,762
 Se ha dicho que GTA 6 funcionará a treinta imágenes por
 
 127
-00:08:20,865 --> 00:08:23,204
+00:06:09,762 --> 00:06:11,459
 segundo en PS5 y Xbox Series.
 
 128
-00:08:23,204 --> 00:08:25,623
+00:06:11,459 --> 00:06:13,215
 Esto aparece en alguna fuente,
 
 129
-00:08:25,623 --> 00:08:30,140
+00:06:13,215 --> 00:06:16,492
 pero yo no he encontrado una confirmación oficial clara.
 
 130
-00:08:30,140 --> 00:08:36,591
+00:06:16,492 --> 00:06:21,173
 Tómalo como rumor hasta que salgan los análisis técnicos del día de lanzamiento.
 
 131
-00:08:36,941 --> 00:08:38,640
+00:06:21,523 --> 00:06:22,787
 Tercero, la PS5 Pro.
 
 132
-00:08:38,640 --> 00:08:43,735
+00:06:22,787 --> 00:06:26,581
 No he encontrado información oficial detallada sobre mejoras
 
 133
-00:08:43,735 --> 00:08:46,453
+00:06:26,581 --> 00:06:28,605
 específicas de GTA 6 en PS5 Pro.
 
 134
-00:08:46,453 --> 00:08:53,077
+00:06:28,605 --> 00:06:33,537
 Es razonable esperar que se vea algo mejor, porque es una consola más potente,
 
 135
-00:08:53,077 --> 00:08:59,955
+00:06:33,537 --> 00:06:38,659
 pero qué mejoras concretas tendrá, si más resolución o más fluidez, está por ver.
 
 136
-00:09:00,305 --> 00:09:02,576
+00:06:39,009 --> 00:06:40,611
 Y cuarto, la Xbox Series S.
 
 137
-00:09:02,576 --> 00:09:06,360
+00:06:40,611 --> 00:06:43,280
 Es la consola menos potente de la generación,
 
 138
-00:09:06,360 --> 00:09:10,313
+00:06:43,280 --> 00:06:46,068
 y en muchos juegos funciona a menor resolución.
 
 139
-00:09:10,313 --> 00:09:12,668
+00:06:46,068 --> 00:06:47,729
 Lo esperable, por historial,
 
 140
-00:09:12,668 --> 00:09:19,311
+00:06:47,729 --> 00:06:52,416
 es que GTA 6 se vea por debajo de la Series X y de la PS5 en esa consola, pero,
 
 141
-00:09:19,311 --> 00:09:26,376
+00:06:52,416 --> 00:06:57,399
 de nuevo, hasta que no salgan los análisis técnicos, es una expectativa, no un dato.
 
 142
-00:09:26,726 --> 00:09:27,571
+00:06:57,749 --> 00:06:58,398
 Mi consejo:
 
 143
-00:09:27,571 --> 00:09:32,106
+00:06:58,398 --> 00:07:01,880
 si ya tienes una de estas consolas, juega en la que tengas.
 
 144
-00:09:32,106 --> 00:09:36,872
+00:07:01,880 --> 00:07:05,539
 La diferencia entre plataformas rara vez cambia la experiencia
 
 145
-00:09:36,872 --> 00:09:38,871
+00:07:05,539 --> 00:07:07,074
 de una historia como esta.
 
 146
-00:09:38,871 --> 00:09:42,176
+00:07:07,074 --> 00:07:09,612
 Y si vas a comprar consola solo para GTA 6,
 
 147
-00:09:42,176 --> 00:09:45,712
+00:07:09,612 --> 00:07:12,326
 espera a los análisis técnicos del primer día,
 
 148
-00:09:45,712 --> 00:09:48,633
+00:07:12,326 --> 00:07:14,569
 que dirán claramente cuál rinde mejor.
 
 149
-00:09:48,633 --> 00:09:53,322
+00:07:14,569 --> 00:07:18,169
 Los medios especializados en análisis técnico suelen publicar
 
 150
-00:09:53,322 --> 00:09:57,934
+00:07:18,169 --> 00:07:21,710
 comparativas entre plataformas en las primeras horas o días,
 
 151
-00:09:57,934 --> 00:10:01,854
+00:07:21,710 --> 00:07:24,720
 con resolución, fluidez y tiempos de carga medidos.
 
 152
-00:10:01,854 --> 00:10:08,234
+00:07:24,720 --> 00:07:29,619
 Esa es la información que vale, no las capturas que circulan antes del lanzamiento.
 
 153
-00:10:08,584 --> 00:10:10,691
+00:07:29,969 --> 00:07:31,587
 Y unos consejos de ajustes,
 
 154
-00:10:10,691 --> 00:10:17,324
+00:07:31,587 --> 00:07:36,681
 que son opinión mía pero que funcionan en casi todos los juegos de Rockstar. Primero:
 
 155
-00:10:17,324 --> 00:10:20,524
+00:07:36,681 --> 00:07:39,138
 revisa el modo de imagen de tu televisor.
 
 156
-00:10:20,524 --> 00:10:27,157
+00:07:39,138 --> 00:07:44,231
 Muchos televisores tienen un modo juego que reduce el retraso de la imagen. Actívalo.
 
 157
-00:10:27,507 --> 00:10:28,141
+00:07:44,581 --> 00:07:45,052
 Segundo:
 
 158
-00:10:28,141 --> 00:10:33,1000
+00:07:45,052 --> 00:07:49,407
 si tu televisor admite HDR, calíbralo dentro del juego si te da la opción.
 
 159
-00:10:33,1000 --> 00:10:38,592
+00:07:49,407 --> 00:07:52,819
 Un juego con tanto atardecer y tanto neón como GTA 6 puede
 
 160
-00:10:38,592 --> 00:10:42,867
+00:07:52,819 --> 00:07:55,997
 verse espectacular o quemado según cómo esté ajustado.
 
 161
-00:10:43,217 --> 00:10:43,845
+00:07:56,347 --> 00:07:56,795
 Tercero:
 
 162
-00:10:43,845 --> 00:10:47,376
+00:07:56,795 --> 00:07:59,316
 activa los subtítulos, al menos al principio.
 
 163
-00:10:47,376 --> 00:10:53,574
+00:07:59,316 --> 00:08:03,741
 Los juegos de Rockstar tienen muchísimo diálogo, mucho de él mientras conduces,
 
 164
-00:10:53,574 --> 00:10:58,125
+00:08:03,741 --> 00:08:06,990
 y es muy fácil perderse detalles de la historia. Y cuarto:
 
 165
-00:10:58,125 --> 00:11:04,402
+00:08:06,990 --> 00:08:11,472
 ajusta la sensibilidad de la cámara antes de la primera persecución, no durante.
 
 166
-00:11:04,752 --> 00:11:09,670
+00:08:11,822 --> 00:08:15,264
 Hablemos un momento del precio, porque ha generado mucho debate.
 
 167
-00:11:09,670 --> 00:11:11,206
+00:08:15,264 --> 00:08:16,339
 Como dato histórico:
 
 168
-00:11:11,206 --> 00:11:15,970
+00:08:16,339 --> 00:08:19,674
 GTA 5 salió en dos mil trece a cincuenta y nueve con noventa y
 
 169
-00:11:15,970 --> 00:11:18,428
+00:08:19,674 --> 00:08:21,395
 nueve dólares en Estados Unidos,
 
 170
-00:11:18,428 --> 00:11:23,576
+00:08:21,395 --> 00:08:24,998
 que era el precio estándar de los grandes lanzamientos de la época.
 
 171
-00:11:23,576 --> 00:11:27,494
+00:08:24,998 --> 00:08:27,741
 Trece años después, GTA 6 sale, según la cobertura,
 
 172
-00:11:27,494 --> 00:11:32,181
+00:08:27,741 --> 00:08:31,022
 a setenta y nueve con noventa y nueve en su edición estándar.
 
 173
-00:11:32,531 --> 00:11:37,229
+00:08:31,372 --> 00:08:34,777
 Para ponerlo en contexto, en estos años ha habido inflación,
 
 174
-00:11:37,229 --> 00:11:41,849
+00:08:34,777 --> 00:08:38,126
 y la industria ya había subido el precio estándar de muchos
 
 175
-00:11:41,849 --> 00:11:46,469
+00:08:38,126 --> 00:08:41,475
 lanzamientos a sesenta y nueve con noventa y nueve dólares.
 
 176
-00:11:46,469 --> 00:11:48,113
+00:08:41,475 --> 00:08:42,667
 GTA 6 da un paso más.
 
 177
-00:11:48,113 --> 00:11:53,438
+00:08:42,667 --> 00:08:46,527
 Si es caro o justo, es una opinión personal, y la dejo en tus manos.
 
 178
-00:11:53,438 --> 00:11:59,154
+00:08:46,527 --> 00:08:50,670
 Lo que sí es un dato es que GTA 5 ha dado cientos de horas a mucha gente,
 
 179
-00:11:59,154 --> 00:12:04,244
+00:08:50,670 --> 00:08:54,360
 y si GTA 6 sigue esa línea, el coste por hora de juego será bajo.
 
 180
-00:12:04,594 --> 00:12:06,776
+00:08:54,710 --> 00:08:56,363
 Y un consejo de consumidor:
 
 181
-00:12:06,776 --> 00:12:10,334
+00:08:56,363 --> 00:08:59,059
 si el precio te frena, no hay ninguna prisa.
 
 182
-00:12:10,334 --> 00:12:12,678
+00:08:59,059 --> 00:09:00,835
 El juego no va a desaparecer.
 
 183
-00:12:12,678 --> 00:12:16,478
+00:09:00,835 --> 00:09:03,714
 Salvo por el pack de reserva, que es cosmético,
 
 184
-00:12:16,478 --> 00:12:19,792
+00:09:03,714 --> 00:09:06,225
 no pierdes nada por esperar a una oferta.
 
 185
-00:12:19,792 --> 00:12:23,350
+00:09:06,225 --> 00:09:08,920
 Lo único que arriesgas es tragarte spoilers.
 
 186
-00:12:23,700 --> 00:12:28,273
+00:09:09,270 --> 00:09:12,763
 Y ahora una sección que, por desgracia, es necesaria.
 
 187
-00:12:28,273 --> 00:12:31,379
+00:09:12,763 --> 00:09:15,135
 Cada gran lanzamiento atrae estafas.
 
 188
-00:12:31,379 --> 00:12:35,089
+00:09:15,135 --> 00:09:17,969
 Te digo las más comunes para que no caigas.
 
 189
-00:12:35,439 --> 00:12:38,841
+00:09:18,319 --> 00:09:20,790
 Primera: "GTA 6 gratis". No existe.
 
 190
-00:12:38,841 --> 00:12:41,174
+00:09:20,790 --> 00:09:22,485
 Ni en consola, ni en PC.
 
 191
-00:12:41,174 --> 00:12:47,590
+00:09:22,485 --> 00:09:27,145
 Cualquier página, vídeo o mensaje que te lo ofrezca es una estafa,
 
 192
-00:12:47,590 --> 00:12:51,478
+00:09:27,145 --> 00:09:29,970
 y muchas veces buscan robarte la cuenta.
 
 193
-00:12:51,828 --> 00:12:52,478
+00:09:30,320 --> 00:09:30,805
 Segunda:
 
 194
-00:12:52,478 --> 00:12:56,050
+00:09:30,805 --> 00:09:33,477
 los códigos baratos en páginas desconocidas.
 
 195
-00:12:56,050 --> 00:13:02,058
+00:09:33,477 --> 00:09:37,970
 Si un código de GTA 6 cuesta la mitad que en la tienda oficial, desconfía.
 
 196
-00:13:02,058 --> 00:13:06,849
+00:09:37,970 --> 00:09:41,552
 Compra en la tienda de tu consola o en tiendas reconocidas.
 
 197
-00:13:07,199 --> 00:13:07,872
+00:09:41,902 --> 00:09:42,390
 Tercera:
 
 198
-00:13:07,872 --> 00:13:13,094
+00:09:42,390 --> 00:09:46,171
 los generadores de dinero del juego o las "cuentas mejoradas".
 
 199
-00:13:13,094 --> 00:13:17,979
+00:09:46,171 --> 00:09:49,708
 Piden tus datos de acceso, y con ellos te roban la cuenta.
 
 200
-00:13:17,979 --> 00:13:22,779
+00:09:49,708 --> 00:09:53,184
 Ningún servicio legítimo te pide tu contraseña. Y cuarta:
 
 201
-00:13:22,779 --> 00:13:27,580
+00:09:53,184 --> 00:09:56,660
 los supuestos "parches" o "trucos" que hay que descargar.
 
 202
-00:13:27,580 --> 00:13:32,381
+00:09:56,660 --> 00:10:00,136
 En consola no se instala nada fuera de la tienda oficial.
 
 203
-00:13:32,731 --> 00:13:34,519
+00:10:00,486 --> 00:10:01,660
 La regla es muy simple:
 
 204
-00:13:34,519 --> 00:13:38,097
+00:10:01,660 --> 00:10:04,009
 todo lo que tenga que ver con GTA 6 se compra,
 
 205
-00:13:38,097 --> 00:13:42,841
+00:10:04,009 --> 00:10:07,123
 se descarga y se actualiza solo desde la tienda oficial de tu
 
 206
-00:13:42,841 --> 00:13:44,786
+00:10:07,123 --> 00:10:08,400
 consola o desde Rockstar.
 
 207
-00:13:44,786 --> 00:13:46,419
+00:10:08,400 --> 00:10:09,472
 Todo lo demás, fuera.
 
 208
-00:13:46,769 --> 00:13:50,248
+00:10:09,822 --> 00:10:12,398
 Te dejo una lista corta de lo que yo no haría.
 
 209
-00:13:50,248 --> 00:13:55,619
+00:10:12,398 --> 00:10:16,374
 No entres en redes sin silenciar palabras clave si no quieres spoilers.
 
 210
-00:13:55,619 --> 00:14:01,670
+00:10:16,374 --> 00:10:20,855
 No descargues nada que prometa trucos, mods o dinero gratis, porque son estafas.
 
 211
-00:14:01,670 --> 00:14:07,797
+00:10:20,855 --> 00:10:25,391
 Y no compartas tus datos de cuenta con nadie que te ofrezca ventajas en el juego.
 
 212
-00:14:08,147 --> 00:14:12,520
+00:10:25,741 --> 00:10:28,890
 Y uno más, que parece broma pero no lo es: descansa.
 
 213
-00:14:12,520 --> 00:14:16,304
+00:10:28,890 --> 00:10:31,615
 GTA 6 va a ser un juego para semanas o meses.
 
 214
-00:14:16,304 --> 00:14:19,835
+00:10:31,615 --> 00:10:34,159
 No hace falta verlo todo la primera noche.
 
 215
-00:14:19,835 --> 00:14:25,049
+00:10:34,159 --> 00:10:37,914
 La historia te va a durar mucho, y se disfruta más sin prisas.
 
 216
-00:14:25,399 --> 00:14:31,269
+00:10:38,264 --> 00:10:42,701
 Te dejo una checklist rápida para esta noche, y es mía, no oficial. Uno:
 
 217
-00:14:31,269 --> 00:14:34,857
+00:10:42,701 --> 00:10:45,413
 comprueba que tienes espacio libre de sobra,
 
 218
-00:14:34,857 --> 00:14:39,097
+00:10:45,413 --> 00:10:48,617
 contando unos doscientos doce gigas más margen. Dos:
 
 219
-00:14:39,097 --> 00:14:45,620
+00:10:48,617 --> 00:10:53,547
 comprueba que la descarga está completa y que la consola está actualizada. Tres:
 
 220
-00:14:45,620 --> 00:14:47,659
+00:10:53,547 --> 00:10:55,088
 carga los mandos. Cuatro:
 
 221
-00:14:47,659 --> 00:14:52,470
+00:10:55,088 --> 00:10:58,724
 silencia en redes las palabras que no quieras ver. Y cinco:
 
 222
-00:14:52,470 --> 00:14:56,954
+00:10:58,724 --> 00:11:02,114
 revisa en tu tienda la hora de desbloqueo de tu región.
 
 223
-00:14:57,304 --> 00:15:02,838
+00:11:02,464 --> 00:11:06,678
 Parece obvio, pero cada gran lanzamiento hay gente que se queda sin jugar la
 
 224
-00:15:02,838 --> 00:15:06,989
+00:11:06,678 --> 00:11:09,839
 primera noche porque le faltaban veinte gigas o porque la
 
 225
-00:15:06,989 --> 00:15:09,246
+00:11:09,839 --> 00:11:11,558
 consola tenía que actualizarse.
 
 226
-00:15:09,246 --> 00:15:10,702
+00:11:11,558 --> 00:11:12,668
 No seas esa persona.
 
 227
-00:15:10,702 --> 00:15:14,780
+00:11:12,668 --> 00:11:15,773
 Hazlo ahora, mientras ves el resto del vídeo si quieres,
 
 228
-00:15:14,780 --> 00:15:19,221
+00:11:15,773 --> 00:11:19,156
 y la noche del lanzamiento solo tendrás que encender y jugar.
 
 229
-00:15:19,571 --> 00:15:22,006
+00:11:19,506 --> 00:11:21,389
 Resumen para guardar. Oficial:
 
 230
-00:15:22,006 --> 00:15:26,308
+00:11:21,389 --> 00:11:24,716
 sale el diecinueve de noviembre en PS5 y Xbox Series.
 
 231
-00:15:26,308 --> 00:15:31,746
+00:11:24,716 --> 00:11:28,921
 La precarga ocupa hasta doscientos doce gigas según el dispositivo.
 
 232
-00:15:31,746 --> 00:15:36,210
+00:11:28,921 --> 00:11:32,373
 Los tráileres se grabaron en PS5 base. Según la prensa:
 
 233
-00:15:36,210 --> 00:15:41,324
+00:11:32,373 --> 00:11:36,327
 edición estándar a setenta y nueve con noventa y nueve dólares,
 
 234
-00:15:41,324 --> 00:15:45,139
+00:11:36,327 --> 00:11:39,277
 Ultimate a noventa y nueve con noventa y nueve,
 
 235
-00:15:45,139 --> 00:15:50,090
+00:11:39,277 --> 00:11:43,106
 el pack vintage de Vice City para compras antes del veinte de
 
 236
-00:15:50,090 --> 00:15:54,635
+00:11:43,106 --> 00:11:46,621
 noviembre y un mes de GTA+ en reservas digitales. Rumor:
 
 237
-00:15:54,635 --> 00:15:57,882
+00:11:46,621 --> 00:11:49,132
 treinta imágenes por segundo. Y confuso:
 
 238
-00:15:57,882 --> 00:16:00,479
+00:11:49,132 --> 00:11:51,140
 si la caja física incluye disco.
 
 239
-00:16:00,829 --> 00:16:01,329
+00:11:51,490 --> 00:11:51,870
 ¿Y tú?
 
 240
-00:16:01,329 --> 00:16:05,913
+00:11:51,870 --> 00:11:55,351
 ¿En qué consola vas a jugar y qué edición has comprado?
 
 241
-00:16:05,913 --> 00:16:07,747
+00:11:55,351 --> 00:11:56,743
 Déjalo en comentarios.
 
 242
-00:16:07,747 --> 00:16:13,248
+00:11:56,743 --> 00:12:00,920
 Y si encuentras un dato oficial que contradiga algo de este vídeo,
 
 243
-00:16:13,248 --> 00:16:16,999
+00:12:00,920 --> 00:12:03,768
 avísame y lo corrijo en un comentario fijado.
 
 244
-00:16:17,349 --> 00:16:22,139
+00:12:04,118 --> 00:12:07,538
 Y si has comprado la Ultimate o simplemente quieres saber
 
 245
-00:16:22,139 --> 00:16:24,745
+00:12:07,538 --> 00:12:09,398
 cuándo podrás jugar con amigos,
 
 246
-00:16:24,745 --> 00:16:27,686
+00:12:09,398 --> 00:12:11,498
 la gran pregunta es el modo online.
 
 247
-00:16:27,686 --> 00:16:30,712
+00:12:11,498 --> 00:12:13,659
 ¿Sale con el juego? ¿Cuándo llegará?
 
 248
-00:16:30,712 --> 00:16:32,645
+00:12:13,659 --> 00:12:15,039
 ¿Qué ha dicho Rockstar?
 
 249
-00:16:32,645 --> 00:16:40,546
+00:12:15,039 --> 00:12:20,679
 En el último vídeo de esta serie te cuento todo lo que se sabe de GTA 6 Online. Te espero ahí.
 
