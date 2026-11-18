@@ -1,2 +1,6 @@
 _tmp/
 video_borrador.mp4
+# medios generados (pesados): se guardan en la carpeta, no en git
+escenas/
+voz/
+video_final.mp4

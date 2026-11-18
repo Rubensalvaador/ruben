@@ -36,7 +36,7 @@ def kenburns(img, segs, out, k):
     frames = int(segs * FPS) + 1
     z = "min(zoom+0.0006,1.18)" if k % 2 == 0 else "if(eq(on,0),1.18,max(zoom-0.0006,1.0))"
     x = "iw/2-(iw/zoom/2)" if k % 3 else "(iw-iw/zoom)*on/%d" % frames
-    vf = (f"scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,"
+    vf = (f"scale=2880:1620:force_original_aspect_ratio=increase,crop=2880:1620,"
           f"zoompan=z='{z}':x='{x}':y='ih/2-(ih/zoom/2)':d={frames}:s={W}x{H}:fps={FPS},format=yuv420p")
     sh(["ffmpeg", "-y", "-loop", "1", "-i", img, "-vf", vf, "-t", f"{segs:.3f}", "-c:v", "libx264",
         "-preset", "veryfast", "-crf", "18", "-an", out])
