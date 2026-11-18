@@ -121,13 +121,81 @@ def hex2rgb(hx):
     return tuple(int(hx[i:i + 2], 16) for i in (1, 3, 5))
 
 
+def _glow_texto(img, pos, txt, f, col, borde=(10, 4, 24), glow=16):
+    capa = Image.new("RGBA", img.size, (0, 0, 0, 0)); ImageDraw.Draw(capa).text(pos, txt, font=f, fill=col + (255,))
+    g = capa.filter(ImageFilter.GaussianBlur(glow)); img.alpha_composite(g); img.alpha_composite(g)
+    sh = Image.new("RGBA", img.size, (0, 0, 0, 0)); ImageDraw.Draw(sh).text((pos[0] + 5, pos[1] + 7), txt, font=f, fill=(0, 0, 0, 210))
+    img.alpha_composite(sh.filter(ImageFilter.GaussianBlur(3)))
+    ImageDraw.Draw(img).text(pos, txt, font=f, fill=col, stroke_width=max(3, f.size // 26), stroke_fill=borde)
+
+
+def miniatura_guia(base, m):
+    """Diseño de «guía»: etiqueta del juego, cifra grande con barra, subtítulo y casillas con los temas."""
+    W, H = 1280, 720
+    dx = m.get("fondo_x", 0)  # desplaza el fondo a la derecha para que lo importante no quede bajo el texto
+    if dx:
+        esc = base.resize((W + dx // 2, H + dx // 2 * H // W))
+        lienzo = base.resize((W, H)).filter(ImageFilter.GaussianBlur(30))
+        mk = Image.new("L", esc.size, 0); ImageDraw.Draw(mk).rectangle([60, 0, esc.width, esc.height], fill=255)
+        lienzo.paste(esc, (dx, (H - esc.height) // 2), mk.filter(ImageFilter.GaussianBlur(40))); base = lienzo
+    img = base.convert("RGBA")
+    # degradado oscuro a la izquierda para que el texto se lea
+    grad = Image.new("L", (W, H), 0); dg = ImageDraw.Draw(grad)
+    for x in range(W):
+        dg.line([(x, 0), (x, H)], fill=int(235 * max(0.0, min(1.0, (820 - x) / 520))))
+    img = Image.composite(Image.new("RGBA", (W, H), (8, 4, 22, 255)), img, grad)
+    d = ImageDraw.Draw(img)
+    acento = hex2rgb(m["acento"]); rosa, turq = (255, 46, 136), (25, 227, 208)
+    x0 = 56
+    # etiqueta del juego
+    fe = ImageFont.truetype(FUENTE, 50); t = m.get("etiqueta", "")
+    if t:
+        bb = fe.getbbox(t); d.rounded_rectangle([x0, 40, x0 + bb[2] + 44, 40 + 74], radius=16, fill=rosa)
+        d.text((x0 + 22, 40 + 37), t, font=fe, fill=(255, 255, 255), anchor="lm")
+    # cifra grande
+    f1 = ImageFont.truetype(FUENTE, 210)
+    _glow_texto(img, (x0 - 6, 118), m["linea1"], f1, (255, 255, 255))
+    # barra de almacenamiento
+    by, bw, bh = 352, 600, 40; llen = m.get("barra", 0.88)
+    glow = Image.new("RGBA", (W, H), (0, 0, 0, 0)); ImageDraw.Draw(glow).rounded_rectangle([x0, by, x0 + bw, by + bh], radius=20, outline=turq + (255,), width=6)
+    img.alpha_composite(glow.filter(ImageFilter.GaussianBlur(10)))
+    d = ImageDraw.Draw(img)
+    d.rounded_rectangle([x0, by, x0 + bw, by + bh], radius=20, fill=(20, 10, 40), outline=turq, width=4)
+    relleno = Image.new("RGBA", (int(bw * llen), bh - 12)); dr = ImageDraw.Draw(relleno)
+    for x in range(relleno.width):
+        dr.line([(x, 0), (x, relleno.height)], fill=lerp(rosa, (255, 150, 40), x / relleno.width) + (255,))
+    mk = Image.new("L", relleno.size, 0); ImageDraw.Draw(mk).rounded_rectangle([0, 0, relleno.width - 1, relleno.height - 1], radius=14, fill=255)
+    img.paste(relleno, (x0 + 6, by + 6), mk)
+    # subtítulo
+    f2 = ImageFont.truetype(FUENTE, 92)
+    _glow_texto(img, (x0 - 2, 412), m["linea2"], f2, acento, glow=12)
+    # casillas con los temas
+    d = ImageDraw.Draw(img); fp = ImageFont.truetype(FUENTE, 36); x = x0; y = 560
+    for p in m.get("puntos", []):
+        bb = fp.getbbox(p); ancho = 62 + bb[2] + 24
+        d.rounded_rectangle([x, y, x + ancho, y + 66], radius=14, fill=(10, 4, 24), outline=turq, width=3)
+        d.rounded_rectangle([x + 14, y + 15, x + 50, y + 51], radius=7, fill=turq)
+        d.line([(x + 21, y + 34), (x + 29, y + 43), (x + 44, y + 23)], fill=(10, 4, 24), width=6, joint="curve")
+        d.text((x + 62, y + 34), p, font=fp, fill=(255, 255, 255), anchor="lm")
+        x += ancho + 16
+    # canal
+    fc = ImageFont.truetype(FUENTE_MED, 24)
+    bb = fc.getbbox(CANAL); d.rounded_rectangle([W - 40 - bb[2] - 36, 40, W - 40, 84], radius=10, fill=(10, 4, 24))
+    d.text((W - 40 - 18, 62), CANAL, font=fc, fill=turq, anchor="rm")
+    return img.convert("RGB")
+
+
 def miniaturas(fondo=None):
     meta = json.loads((RAIZ / "herramientas" / "metadatos.json").read_text())
     for i, (carpeta, m) in enumerate(meta.items()):
-        if fondo and (RAIZ / carpeta / fondo).exists():
-            base = Image.open(RAIZ / carpeta / fondo).convert("RGB").resize((1280, 720))
+        fondo_m = m["miniatura"].get("fondo", fondo)
+        if fondo_m and (RAIZ / carpeta / fondo_m).exists():
+            base = Image.open(RAIZ / carpeta / fondo_m).convert("RGB").resize((1280, 720))
         else:
             base = atardecer(1280, 720, semilla=i, sol_x=0.74)
+        if "puntos" in m["miniatura"]:
+            miniatura_guia(base, m["miniatura"]).save(RAIZ / carpeta / "miniatura.jpg", quality=92)
+            print("miniatura", carpeta, "(guía)"); continue
         img = texto_neon(base, [m["miniatura"]["linea1"], m["miniatura"]["linea2"]], hex2rgb(m["miniatura"]["acento"]))
         d = ImageDraw.Draw(img)
         f = ImageFont.truetype(FUENTE_MED, 26)
