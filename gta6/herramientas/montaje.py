@@ -118,7 +118,7 @@ def main():
     salida = carpeta / ("video_borrador.mp4" if borrador else "video_final.mp4")
     vf = []
     if quemar:
-        estilo = "FontName=Inter,FontSize=17,Bold=1,PrimaryColour=&H00FFFFFF,BackColour=&H90100418,BorderStyle=3,Outline=6,Shadow=0,MarginV=36,MarginL=230,MarginR=230"
+        estilo = "FontName=Inter,FontSize=17,Bold=1,PrimaryColour=&H00FFFFFF,BackColour=&H90100418,BorderStyle=3,Outline=6,Shadow=0,MarginV=36,MarginL=40,MarginR=40"
         vf = ["-vf", f"subtitles={srt}:force_style='{estilo}'"]
     if musica:
         filtro = (f"[2:a]aloop=loop=-1:size=2e9,atrim=0:{total:.3f},volume=-20dB,afade=t=in:d=3,afade=t=out:st={total-6:.3f}:d=6[m];"
