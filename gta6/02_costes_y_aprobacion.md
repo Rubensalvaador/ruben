@@ -11,6 +11,31 @@
   Si prefieres algo más profesional, cámbialas por pistas de la Biblioteca de audio de YouTube con el mismo nombre de archivo.
 
 
+## Tarifa real de Eviolite (de tu captura, 18/11/2026)
+- Pack de 400 créditos por 8 € (unos 100 clips de Veo 3.1 Lite), pack de 1.200 por 20 €, o a medida a 1,67 céntimos el crédito. Los créditos de los packs no caducan.
+- **Plan Creator a 19 €/mes:** 1.600 créditos (unos 400 clips de Veo 3.1 Lite), más imágenes de **Meta AI incluidas** (hasta 300 al día).
+- De ahí sale que **1 clip de Veo 3.1 Lite cuesta unos 4 créditos**. La captura **no muestra lo que cuesta una imagen de Nano Banana** (N créditos): se ve al elegir el modelo en el generador.
+
+| Vídeo | Imágenes | Clips | Créditos en clips | Total = clips + imágenes × N |
+|---|---|---|---|---|
+| 01-mapa-leonida | 41 | 7 | 28 | 28 + 41·N |
+| 02-jason-lucia-historia | 41 | 5 | 20 | 20 + 41·N |
+| 03-personajes-confirmados | 45 | 6 | 24 | 24 + 45·N |
+| 04-secretos-trailers | 43 | 5 | 20 | 20 + 43·N |
+| 05-mecanicas-extended-look | 47 | 6 | 24 | 24 + 47·N |
+| 06-vehiculos-trailers | 48 | 6 | 24 | 24 + 48·N |
+| 07-misiones-atracos | 45 | 5 | 20 | 20 + 45·N |
+| 08-gta6-pc-requisitos | 45 | 5 | 20 | 20 + 45·N |
+| 09-antes-de-jugar-212gb-ediciones | 44 | 4 | 16 | 16 + 44·N |
+| 10-gta6-online | 46 | 5 | 20 | 20 + 46·N |
+| **TOTAL** | **445** | **54** | **216** | **216 + 445·N** |
+
+- **Si N = 2:** 216 + 890 = **1.106 créditos**. Con el plan Creator (1.600 créditos) **sobra para los 10 vídeos**, con unos 490 de margen para repetir escenas.
+- **Si N = 3:** 216 + 1.335 = **1.551 créditos**, justo dentro del plan.
+- **Si N > 3:** las imágenes de relleno se hacen con Meta AI, que va incluido en el plan, y Nano Banana se reserva para las escenas clave y las miniaturas.
+
+**Elección: plan Creator (19 €, un mes).** Es el que deja más créditos por euro (1,19 céntimos el crédito, frente a 1,67 en pack) e incluye imágenes de Meta AI como red de seguridad. Puedes cancelarlo al acabar el mes.
+
 No se ha generado **nada** todavía. Como pediste, esperamos a tu OK. Además hay dos bloqueos:
 1. **No hay acceso a Eviolite desde esta sesión.** No aparece ningún conector ni API de Eviolite, y tampoco he encontrado su tabla de precios en la web. Por eso **no puedo darte la cifra exacta en créditos**: te doy las cantidades exactas por vídeo y la fórmula. Con tu tarifa sale el número al momento.
 2. **ElevenLabs, «voz X»:** falta saber qué voz quieres (nombre o ID) y una clave de API.
