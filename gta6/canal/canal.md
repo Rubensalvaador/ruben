@@ -26,16 +26,25 @@ Otras opciones que se descartaron: Neón Leonida (suena a estética, no a inform
 **Identidad:** magenta `#FF2E88`, turquesa `#19E3D0`, naranja `#FF7A1A`, amarillo `#FFD23F` y fondo índigo `#0E0622`. Tipografía Inter Display Black / Inter Bold (licencia libre SIL OFL). El fondo es una ilustración original generada con Nano Banana: nada de capturas, logos ni tipografías oficiales del juego.
 
 ## 3 · Descripción del canal («Acerca de»)
+Ocupa unos 990 caracteres (el máximo de YouTube es 1.000). La primera frase es la que sale en las búsquedas, así que lleva «GTA 6 en español».
 ```
-Expediente Leonida analiza GTA 6 en español con una regla: lo confirmado, por un lado; la teoría, por otro, y dicha en voz alta.
+Todo sobre GTA 6 en español, explicado con calma y sin humo. 🔎🌴
 
-Aquí encontrarás análisis del mapa de Leonida, sus personajes, los tráileres, las mecánicas, los vehículos y los atracos. Y, desde el lanzamiento, guías prácticas, secretos de la comunidad y expectativas contra realidad.
+En Expediente Leonida investigamos cada detalle de Grand Theft Auto VI como si fuera un caso: el mapa de Leonida y Vice City, la historia de Jason y Lucia, los secretos de los tráileres, las mecánicas, los vehículos, los atracos y GTA 6 Online.
 
-Sin clickbait, sin filtraciones y sin inventar.
-🗓️ Vídeo nuevo cada semana.
+Nuestra regla es sencilla: lo confirmado, por un lado; la teoría, por otro. Siempre te decimos qué es dato oficial y qué es especulación.
+
+📁 Qué encontrarás aquí:
+• Análisis largos y bien documentados
+• Guías prácticas: requisitos, ediciones, precarga y ajustes
+• Secretos, curiosidades y teorías de la comunidad
+• Desde el lanzamiento: guías, trucos y expectativas contra realidad
+
+🗓️ Vídeo nuevo cada semana. Suscríbete y activa la campana 🔔 para no perderte ningún expediente.
+
 ✉️ Contacto profesional: [tu email]
 
-Canal no afiliado a Rockstar Games ni a Take-Two Interactive. Las imágenes son ilustraciones originales: no usamos capturas ni material oficial del juego.
+Canal de fans, no afiliado a Rockstar Games ni a Take-Two. Ilustraciones originales, sin material oficial del juego.
 ```
 
 ## 4 · Palabras clave del canal
