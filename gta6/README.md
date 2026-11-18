@@ -7,7 +7,7 @@ Canal de YouTube en español: análisis de GTA 6 separando **dato confirmado** d
 gta6/
 ├── 01_investigacion.md          ← búsquedas, datos de demanda y por qué estos 10 temas
 ├── 02_costes_y_aprobacion.md    ← imágenes/clips por vídeo, fórmula de créditos, lo que falta para generar
-├── canal/                       ← nombres, «acerca de», logo y banner (maquetas)
+├── canal/                       ← kit del canal: avatar, banner, marca de agua, nombre, descripción y pasos (canal.md)
 ├── herramientas/                ← scripts (ver abajo) + estilo visual + metadatos
 └── NN-tema/
     ├── guion.md                 ← guion de ~15 min, con capítulos y escenas
@@ -63,5 +63,5 @@ python3 arte.py miniaturas --fondo escenas/E01.png
 3. ~~Música~~ ✅ hecha (`musica/`, original).
 4. **Revisar cada guion** contra la web oficial de Rockstar. Desde aquí no se pudo abrir y los datos vienen de la prensa vía buscador. Hay que prestar especial atención a: el precio y lo que incluye la Ultimate, la fecha de la precarga, los 30 fps (marcado como rumor), las descripciones de las regiones y lo que dicen exactamente las fichas de los personajes.
 5. **Comprobar las sugerencias de YouTube** y la competencia en español (no se pudieron consultar desde aquí).
-6. **Crear el canal** (comprobar que `@ExpedienteLeonida` está libre) y subir el logo y el banner.
+6. **Crear el canal** (comprobar que `@ExpedienteLeonida` está libre) y seguir los pasos de `canal/canal.md`: avatar, banner, marca de agua y textos.
 7. Al subir: sustituir `{enlace_siguiente}`, `{musica}` y `{playlist}` en las descripciones, subir `subtitulos.srt`, configurar la pantalla final y marcar «contenido alterado» si alguna imagen parece realista.
