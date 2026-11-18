@@ -29,7 +29,7 @@ GTA 6 sale solo en PS5 y Xbox Series. Repasamos lo que han dicho Take-Two y Rock
 13:41 Resumen
 14:41 Cierre
 
-▶️ Siguiente vídeo: GTA 6: todo lo que debes saber ANTES de jugar (212 GB) → {enlace_siguiente}
+▶️ Siguiente vídeo: GTA 6: lo que debes saber ANTES de jugar (espacio, ediciones y consola) → {enlace_siguiente}
 
 —
 🔎 En Expediente Leonida separamos siempre lo CONFIRMADO (tráileres, web y anuncios oficiales de Rockstar/Take-Two) de la ESPECULACIÓN, que se dice en voz alta.
@@ -50,4 +50,4 @@ gta 6, gta 6 pc, gta 6 requisitos, gta 6 pc requisitos, gta 6 pc fecha, gta 6 en
 - Idioma: español · Subtítulos: subir `subtitulos.srt`
 - Contenido alterado o sintético: las ilustraciones no son realistas; actívalo si alguna escena lo parece (política de YouTube).
 - Público: no creado para niños · Categoría: Videojuegos
-- Pantalla final (últimos 20 s): «GTA 6: todo lo que debes saber ANTES de jugar (212 GB)» + botón de suscripción
+- Pantalla final (últimos 20 s): «GTA 6: lo que debes saber ANTES de jugar (espacio, ediciones y consola)» + botón de suscripción

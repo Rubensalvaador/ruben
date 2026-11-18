@@ -1,9 +1,9 @@
 # Ficha de subida · 09-antes-de-jugar-212gb-ediciones
 
 ## Títulos (elige uno; el primero es el recomendado)
-1. GTA 6: todo lo que debes saber ANTES de jugar (212 GB)
-2. GTA 6: ¿qué edición comprar y en qué consola se ve mejor?
-3. 212 GB, ediciones y precarga: guía de lanzamiento de GTA 6
+1. GTA 6: lo que debes saber ANTES de jugar (espacio, ediciones y consola)
+2. GTA 6 ocupa hasta 212 GB: ¿cabe en tu consola? Guía antes de jugar
+3. GTA 6: ¿qué edición comprar y en qué consola se ve mejor?
 
 ## Miniatura
 `miniatura.jpg` (1280x720) · texto: **212 GB / ANTES DE JUGAR**
@@ -11,7 +11,20 @@ Versión final: regenerar sobre la imagen de Nano Banana con `python3 herramient
 
 ## Descripción (copiar y pegar; sustituir lo que va entre llaves)
 ```
-Guía práctica para el lanzamiento de GTA 6: espacio necesario (hasta 212 GB según Rockstar), precarga, ediciones Standard y Ultimate, el Vintage Vice City Pack, GTA+, versión física, PS5 vs PS5 Pro vs Xbox Series, ajustes recomendados y estafas que evitar.
+GTA 6 sale el 19 de noviembre de 2026 y aquí tienes todo lo que conviene saber ANTES de encender la consola: cuánto ocupa, cuándo empieza la precarga, qué edición compensa y en qué consola se juega mejor.
+
+En esta guía práctica:
+💾 Espacio: Rockstar confirma hasta 212 GB. ¿Cabe en tu PS5 o en tu Xbox Series S?
+⬇️ Precarga y hora de desbloqueo
+💰 Ediciones Standard y Ultimate: precio y qué incluye cada una
+🎁 El Vintage Vice City Pack de la reserva
+📀 Versión física: cuidado con lo que trae la caja
+🎮 PS5, PS5 Pro, Xbox Series X y Series S: en cuál se ve mejor
+⚙️ Ajustes recomendados para el primer día
+🚫 Mitos, estafas y errores del día de lanzamiento
+✅ Una checklist para esta noche
+
+Lo confirmado por Rockstar, por un lado; lo que dice la prensa o es rumor, marcado como tal.
 
 ⏱️ CAPÍTULOS
 0:00 Gancho
