@@ -20,11 +20,12 @@ Texto legible generado por la IA, desenfocado con PIL:
 Revisadas y aceptadas: E04 (un «18» borroso en el calendario), E03 y E41 (números de reloj), E05, E24 y E25 (consolas con un diseño parecido al de modelos reales, aunque sin logos).
 
 ## Resultado
-- Voz: `voz_local.py` (pico2wave, es-ES), 44 pistas en `voz/`, 16,4 min.
-- `video_final.mp4`: **17:01** (1.020,9 s), 1920x1080 a 30 fps, voz a -16 LUFS, música `03_expediente_nocturno.mp3` con ducking, subtítulos quemados y 20 s de pantalla final.
+- Voz: `voz_piper.py` (Piper, voz neuronal es_ES «davefx», offline y gratis), 44 pistas en `voz/`. Sustituye a la primera versión con pico2wave, que sonaba robótica.
+- `video_final.mp4`: **12:41** (761 s), 1920x1080 a 30 fps, voz a -16 LUFS, música `03_expediente_nocturno.mp3` con ducking, subtítulos quemados y 20 s de pantalla final.
 - `subtitulos.srt` y `capitulos.txt` con los tiempos reales; `subida.md` regenerado.
 - Corregido `montaje.py`: los márgenes de los subtítulos quemados estaban en píxeles de 1080p, pero libass usa la escala 384x288 para los SRT, así que salían palabra a palabra.
 
 ## Pendiente a mano
-- Escuchar la voz completa: pico2wave es una voz sintética básica. Si no convence, cambiarla por la de ElevenLabs (`voz_elevenlabs.py`) y volver a ejecutar `montaje.py` y `subida.py`.
+- Escuchar la voz completa. La alternativa gratuita es `--voz es_ES-sharvard-medium`; la de más calidad, ElevenLabs (`voz_elevenlabs.py`). Después hay que volver a ejecutar `montaje.py` y `subida.py`.
+- Con la voz de Piper el vídeo dura 12:41, menos de los 15 min previstos. Si se quieren pasar los 15 min, hay que alargar el guion o bajar la velocidad (`VELOCIDAD` en `voz_piper.py`).
 - Al subir: marcar «contenido alterado o sintético» y sustituir `{enlace_siguiente}`, `{musica}` y `{playlist}` en la descripción.

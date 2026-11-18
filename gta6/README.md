@@ -51,7 +51,7 @@ python3 arte.py miniaturas --fondo escenas/E01.png
 | 06 | Vehículos | ✅ 15,0 min | ⏳ 48 / 6 | ⏳ | ⏳ | 🟡 provisional | ✅ |
 | 07 | Misiones y atracos | ✅ 15,1 min | ⏳ 45 / 5 | ⏳ | ⏳ | 🟡 provisional | ✅ |
 | 08 | PC y requisitos | ✅ 15,0 min | ⏳ 45 / 5 | ⏳ | ⏳ | 🟡 provisional | ✅ |
-| 09 | Antes de jugar (212 GB) | ✅ 15,0 min | ✅ 44 / 2 | ✅ pico2wave | ✅ 17:01 | ✅ | ✅ |
+| 09 | Antes de jugar (212 GB) | ✅ 15,0 min | ✅ 44 / 2 | ✅ Piper | ✅ 12:41 | ✅ | ✅ |
 | 10 | GTA 6 Online | ✅ 14,8 min* | ⏳ 46 / 5 | ⏳ | ⏳ | 🟡 provisional | ✅ |
 
 \*Más 20 s de pantalla final; todos superan los 15 min. Las duraciones están estimadas a unas 153 palabras por minuto, así que la voz real puede variar ±10 %.
