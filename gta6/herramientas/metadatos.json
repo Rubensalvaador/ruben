@@ -1,0 +1,62 @@
+{
+ "01-mapa-leonida": {
+  "titulos": ["El MAPA de GTA 6 explicado: las 6 regiones de Leonida", "GTA 6: todo el mapa confirmado (y lo que NO se sabe)", "Leonida al detalle: Vice City, los Cayos, Grassrivers y más | GTA 6"],
+  "miniatura": {"linea1": "6 REGIONES", "linea2": "EL MAPA", "acento": "#ff2e88"},
+  "intro": "Recorremos el mapa de GTA 6 región por región con lo que Rockstar ha confirmado en tráileres y en su web: Vice City, los Cayos de Leonida, Grassrivers, Port Gellhorn, Ambrosia y el Parque Nacional del Monte Kalaga. Separamos lo confirmado de la especulación (tamaño del mapa, regiones extra, interiores).",
+  "etiquetas": ["gta 6", "gta 6 mapa", "mapa gta 6", "leonida", "vice city", "gta 6 regiones", "gta vi", "gta 6 español", "grand theft auto 6", "gta 6 mapa completo"]
+ },
+ "02-jason-lucia-historia": {
+  "titulos": ["Jason y Lucia: TODA la historia confirmada de GTA 6", "GTA 6: ¿por qué Lucia llama desde la cárcel? Lo que sabemos", "Quiénes son Jason y Lucia en GTA 6 (sin rumores)"],
+  "miniatura": {"linea1": "JASON Y LUCIA", "linea2": "SU HISTORIA", "acento": "#ff7a1a"},
+  "intro": "Todo lo confirmado sobre Jason Duval y Lucia Caminos, los protagonistas de GTA 6: sus fichas oficiales, el pasado militar de Jason, la llamada de Lucia desde la cárcel en el tráiler de lanzamiento y cómo funciona el control de los dos personajes. Las teorías van aparte y marcadas.",
+  "etiquetas": ["gta 6", "jason gta 6", "lucia gta 6", "jason y lucia", "gta 6 historia", "gta 6 protagonistas", "gta 6 trailer lanzamiento", "gta vi", "gta 6 español", "lucia caminos"]
+ },
+ "03-personajes-confirmados": {
+  "titulos": ["TODOS los personajes confirmados de GTA 6", "GTA 6: quién es quién (Brian, Cal, Boobie, Raul y más)", "El reparto de GTA 6 explicado: oficial vs teoría"],
+  "miniatura": {"linea1": "TODOS LOS", "linea2": "PERSONAJES", "acento": "#19e3d0"},
+  "intro": "Repasamos todos los personajes secundarios de GTA 6 con ficha oficial de Rockstar: Brian Heder, Cal Hampton, Boobie Ike, Dre'Quan Priest, Real Dimez y Raul Bautista, además de la familia de Lucia. Qué dice Rockstar de cada uno y qué es teoría de la comunidad.",
+  "etiquetas": ["gta 6", "gta 6 personajes", "personajes gta 6", "boobie ike", "raul bautista", "cal hampton", "brian heder", "real dimez", "gta vi", "gta 6 español"]
+ },
+ "04-secretos-trailers": {
+  "titulos": ["Los SECRETOS de los tráileres de GTA 6 que casi nadie vio", "GTA 6: análisis plano a plano de los 3 tráileres", "Detalles ocultos de GTA 6 (y los falsos secretos que debes ignorar)"],
+  "miniatura": {"linea1": "SECRETOS", "linea2": "DE LOS TRÁILERES", "acento": "#ff2e88"},
+  "intro": "Analizamos los tres tráileres oficiales de GTA 6 (diciembre 2023, mayo 2025 y el tráiler de lanzamiento de octubre 2026) y el Extended Look: récords, canciones, guiños, detalles escondidos y los falsos secretos que circulan por internet.",
+  "etiquetas": ["gta 6", "gta 6 trailer", "gta 6 trailer 3", "gta 6 secretos", "gta 6 analisis", "gta 6 trailer lanzamiento", "gta 6 detalles", "gta vi", "gta 6 español", "gta 6 easter eggs"]
+ },
+ "05-mecanicas-extended-look": {
+  "titulos": ["Todas las MECÁNICAS de GTA 6 que ya se han visto", "GTA 6: 6 estrellas, cambio de personaje y estilo Red Dead", "Cómo se juega GTA 6: lo confirmado del Extended Look"],
+  "miniatura": {"linea1": "6 ESTRELLAS", "linea2": "Y MÁS", "acento": "#ffd23f"},
+  "intro": "Repasamos las mecánicas de GTA 6 que se han visto en el Extended Look y los tráileres: la rueda para cambiar entre Jason, Lucia o los dos, el combate, el sistema de interacción al estilo Red Dead Redemption 2, el nivel de búsqueda, la conducción y las estadísticas. Con etiquetas claras: visto en pantalla, según la prensa o rumor.",
+  "etiquetas": ["gta 6", "gta 6 gameplay", "gta 6 mecanicas", "gta 6 extended look", "gta 6 jugabilidad", "gta 6 policia", "gta 6 nivel de busqueda", "gta vi", "gta 6 español", "gta 6 novedades"]
+ },
+ "06-vehiculos-trailers": {
+  "titulos": ["Todos los COCHES y vehículos que se ven en GTA 6", "GTA 6: deportivos, lanchas y aerodeslizadores (lo que se ve)", "Vehículos de GTA 6: qué es oficial y qué es de fans"],
+  "miniatura": {"linea1": "COCHES", "linea2": "Y BARCOS", "acento": "#ff7a1a"},
+  "intro": "Todos los tipos de vehículos que se ven en los tráileres de GTA 6: deportivos, clásicos, camionetas, motos, lanchas, motos de agua, yates, aerodeslizadores y helicópteros. Explicamos por qué todavía no hay nombres oficiales y cómo leer las identificaciones de fans.",
+  "etiquetas": ["gta 6", "gta 6 coches", "coches gta 6", "gta 6 vehiculos", "gta 6 barcos", "gta 6 motos", "gta 6 cars", "gta vi", "gta 6 español", "gta 6 trailer coches"]
+ },
+ "07-misiones-atracos": {
+  "titulos": ["Misiones y ATRACOS de GTA 6: todo lo que se sabe", "GTA 6: cómo serán los golpes (pistas oficiales)", "Del atraco a la tienda al gran golpe: las misiones de GTA 6"],
+  "miniatura": {"linea1": "ATRACOS", "linea2": "Y MISIONES", "acento": "#19e3d0"},
+  "intro": "Qué sabemos de las misiones y atracos de GTA 6: el atraco a la tienda del primer tráiler, los robos en el mundo abierto del Extended Look, lo que sugieren las fichas oficiales de los personajes y la historia de los grandes golpes en la saga. Deducciones y especulación, bien marcadas.",
+  "etiquetas": ["gta 6", "gta 6 misiones", "gta 6 atracos", "gta 6 golpes", "gta 6 heist", "raul bautista", "gta 6 historia", "gta vi", "gta 6 español", "gta 6 robos"]
+ },
+ "08-gta6-pc-requisitos": {
+  "titulos": ["GTA 6 en PC: ¿cuándo sale y qué requisitos pedirá?", "GTA 6 NO sale en PC: lo que ha dicho Take-Two", "Requisitos de GTA 6 para PC: lo real vs lo inventado"],
+  "miniatura": {"linea1": "¿Y EN PC?", "linea2": "LA VERDAD", "acento": "#ff2e88"},
+  "intro": "GTA 6 sale solo en PS5 y Xbox Series. Repasamos lo que han dicho Take-Two y Rockstar sobre la versión de PC, cuánto tardaron GTA 4, GTA 5 y Red Dead Redemption 2 en llegar a PC, una estimación (no oficial) de requisitos y cómo evitar las estafas de \"GTA 6 PC descarga\".",
+  "etiquetas": ["gta 6", "gta 6 pc", "gta 6 requisitos", "gta 6 pc requisitos", "gta 6 pc fecha", "gta 6 en pc", "requisitos gta 6", "gta vi", "gta 6 español", "gta 6 pc release"]
+ },
+ "09-antes-de-jugar-212gb-ediciones": {
+  "titulos": ["GTA 6: todo lo que debes saber ANTES de jugar (212 GB)", "GTA 6: ¿qué edición comprar y en qué consola se ve mejor?", "212 GB, ediciones y precarga: guía de lanzamiento de GTA 6"],
+  "miniatura": {"linea1": "212 GB", "linea2": "ANTES DE JUGAR", "acento": "#ffd23f"},
+  "intro": "Guía práctica para el lanzamiento de GTA 6: espacio necesario (hasta 212 GB según Rockstar), precarga, ediciones Standard y Ultimate, el Vintage Vice City Pack, GTA+, versión física, PS5 vs PS5 Pro vs Xbox Series, ajustes recomendados y estafas que evitar.",
+  "etiquetas": ["gta 6", "gta 6 tamaño", "gta 6 cuantos gb", "gta 6 precio", "gta 6 ediciones", "gta 6 precarga", "gta 6 ps5 pro", "gta vi", "gta 6 español", "gta 6 ultimate edition"]
+ },
+ "10-gta6-online": {
+  "titulos": ["GTA 6 ONLINE: ¿cuándo sale? Lo que se sabe de verdad", "GTA 6 sale SIN online: fechas, rumores y qué pasa con GTA Online", "El futuro de GTA Online con GTA 6 (oficial vs rumor)"],
+  "miniatura": {"linea1": "GTA 6 ONLINE", "linea2": "¿CUÁNDO?", "acento": "#19e3d0"},
+  "intro": "GTA 6 se lanza como juego para un jugador. Repasamos lo oficial sobre el modo online, los rumores de fecha (2027), cómo llegaron GTA Online y Red Dead Online, qué pasa con GTA Online de GTA 5 y qué pide la comunidad. Cierre de la serie de 10 vídeos.",
+  "etiquetas": ["gta 6", "gta 6 online", "gta online 6", "gta 6 multijugador", "gta 6 online fecha", "gta online", "gta 6 online cuando sale", "gta vi", "gta 6 español", "gta 6 online rumores"]
+ }
+}

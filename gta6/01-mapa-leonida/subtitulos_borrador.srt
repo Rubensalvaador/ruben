@@ -1,0 +1,988 @@
+1
+00:00:00,000 --> 00:00:04,278
+Seis regiones, un estado inventado a partir de Florida y una
+
+2
+00:00:04,278 --> 00:00:06,988
+ciudad que vuelve veinte años después.
+
+3
+00:00:06,988 --> 00:00:11,765
+Este es todo el mapa confirmado de GTA 6, separando dato de teoría.
+
+4
+00:00:12,115 --> 00:00:14,520
+Bienvenido a Expediente Leonida.
+
+5
+00:00:14,520 --> 00:00:17,602
+Aquí analizamos GTA 6 con una sola regla:
+
+6
+00:00:17,602 --> 00:00:21,211
+separar lo confirmado de lo que es especulación.
+
+7
+00:00:21,211 --> 00:00:28,052
+Cuando algo salga de un tráiler, de la web oficial o de un anuncio de Rockstar, te lo diré.
+
+8
+00:00:28,052 --> 00:00:33,765
+Cuando sea una teoría de la comunidad o una opinión mía, también te lo diré,
+
+9
+00:00:33,765 --> 00:00:35,644
+en voz alta y sin rodeos.
+
+10
+00:00:35,994 --> 00:00:40,245
+Y empezamos por lo básico, porque mucha gente lo confunde.
+
+11
+00:00:40,245 --> 00:00:43,030
+GTA 6 no transcurre solo en Vice City.
+
+12
+00:00:43,030 --> 00:00:47,647
+Transcurre en Leonida, un estado ficticio inspirado en Florida,
+
+13
+00:00:47,647 --> 00:00:50,212
+y Vice City es solo su gran ciudad.
+
+14
+00:00:50,212 --> 00:00:53,217
+Es lo mismo que pasó con GTA San Andreas:
+
+15
+00:00:53,217 --> 00:00:58,347
+un estado entero, con varias zonas, y la ciudad como corazón del mapa.
+
+16
+00:00:58,697 --> 00:00:59,877
+Contexto rápido.
+
+17
+00:00:59,877 --> 00:01:04,451
+GTA 6 sale el diecinueve de noviembre de dos mil veintiséis en
+
+18
+00:01:04,451 --> 00:01:06,958
+PlayStation 5 y Xbox Series X y S.
+
+19
+00:01:06,958 --> 00:01:11,679
+El primer tráiler se publicó en diciembre de dos mil veintitrés,
+
+20
+00:01:11,679 --> 00:01:15,884
+el segundo en mayo de dos mil veinticinco y el tráiler de
+
+21
+00:01:15,884 --> 00:01:19,203
+lanzamiento en octubre de dos mil veintiséis.
+
+22
+00:01:19,203 --> 00:01:24,662
+Además, Rockstar enseñó un vídeo largo de juego, el llamado Extended Look.
+
+23
+00:01:24,662 --> 00:01:29,677
+De todo ese material, más la web oficial, sale lo que vas a ver hoy.
+
+24
+00:01:30,027 --> 00:01:32,184
+Leonida es el escenario completo.
+
+25
+00:01:32,184 --> 00:01:37,348
+En la web oficial, Rockstar lo presenta dividido en regiones con nombre propio,
+
+26
+00:01:37,348 --> 00:01:41,988
+y cada una tiene su propia descripción, su ambiente y su tipo de gente.
+
+27
+00:01:41,988 --> 00:01:44,210
+Las regiones confirmadas son seis:
+
+28
+00:01:44,210 --> 00:01:48,132
+Vice City, los Cayos de Leonida, Grassrivers, Port Gellhorn,
+
+29
+00:01:48,132 --> 00:01:51,204
+Ambrosia y el Parque Nacional del Monte Kalaga.
+
+30
+00:01:51,554 --> 00:01:56,420
+Fíjate en el orden geográfico, porque tiene sentido si conoces Florida.
+
+31
+00:01:56,420 --> 00:01:58,681
+Una gran ciudad en la costa este.
+
+32
+00:01:58,681 --> 00:02:00,532
+Una cadena de islas al sur.
+
+33
+00:02:00,532 --> 00:02:02,793
+Humedales enormes en el interior.
+
+34
+00:02:02,793 --> 00:02:05,946
+Una ciudad costera venida a menos en el golfo.
+
+35
+00:02:05,946 --> 00:02:09,509
+Una zona industrial y agrícola alrededor de un lago.
+
+36
+00:02:09,509 --> 00:02:11,839
+Y un parque natural al norte. Ojo:
+
+37
+00:02:11,839 --> 00:02:13,553
+la forma exacta del mapa,
+
+38
+00:02:13,553 --> 00:02:17,665
+su tamaño en kilómetros y dónde está cada frontera no se han
+
+39
+00:02:17,665 --> 00:02:19,515
+publicado de forma oficial.
+
+40
+00:02:19,515 --> 00:02:23,970
+Los mapas que circulan por internet son reconstrucciones de fans,
+
+41
+00:02:23,970 --> 00:02:26,848
+algunas muy buenas, pero reconstrucciones.
+
+42
+00:02:27,198 --> 00:02:28,904
+¿Por qué importa esto?
+
+43
+00:02:28,904 --> 00:02:34,331
+Porque la pregunta más buscada sobre el mapa es "¿cómo de grande es?".
+
+44
+00:02:34,331 --> 00:02:40,146
+Y la respuesta honesta, a día de hoy, es que Rockstar no ha dado una cifra.
+
+45
+00:02:40,146 --> 00:02:44,953
+Todo lo que oigas de "dos veces el de GTA 5" o "tres veces" es
+
+46
+00:02:44,953 --> 00:02:49,295
+una estimación hecha comparando planos de los tráileres.
+
+47
+00:02:49,295 --> 00:02:50,768
+Puede acertar o no.
+
+48
+00:02:50,768 --> 00:02:54,257
+Lo que sí podemos analizar es qué hay dentro.
+
+49
+00:02:54,607 --> 00:02:56,791
+Vice City es el centro de todo.
+
+50
+00:02:56,791 --> 00:03:00,808
+Rockstar la vende como la capital del sol y la diversión,
+
+51
+00:03:00,808 --> 00:03:04,331
+y en los tres tráileres es la protagonista visual:
+
+52
+00:03:04,331 --> 00:03:09,616
+playas abarrotadas, hoteles de estilo art déco, avenidas con neones, yates,
+
+53
+00:03:09,616 --> 00:03:12,646
+discotecas y una vida nocturna que no para.
+
+54
+00:03:12,996 --> 00:03:17,334
+Lo que vemos en el primer tráiler es una ciudad muy viva.
+
+55
+00:03:17,334 --> 00:03:22,434
+La playa llena de gente, coches deportivos en la avenida principal,
+
+56
+00:03:22,434 --> 00:03:28,218
+fiestas en barcos, y muchísimas escenas que imitan vídeos de redes sociales.
+
+57
+00:03:28,218 --> 00:03:33,089
+Esa idea, la de una ciudad que se graba a sí misma con el móvil,
+
+58
+00:03:33,089 --> 00:03:36,133
+es una de las claves del tono del juego.
+
+59
+00:03:36,483 --> 00:03:38,790
+Pero Vice City no es solo playa.
+
+60
+00:03:38,790 --> 00:03:44,556
+En el material oficial aparecen zonas residenciales, un puerto con contenedores,
+
+61
+00:03:44,556 --> 00:03:47,872
+rascacielos de cristal y barrios más humildes.
+
+62
+00:03:47,872 --> 00:03:49,602
+Es decir, hay contraste.
+
+63
+00:03:49,602 --> 00:03:54,359
+Y en GTA, el contraste es lo que hace que una ciudad parezca real:
+
+64
+00:03:54,359 --> 00:03:59,621
+la zona rica y la zona donde vive la gente que trabaja para la zona rica.
+
+65
+00:03:59,971 --> 00:04:03,355
+Un detalle importante para los fans veteranos.
+
+66
+00:04:03,355 --> 00:04:08,506
+Esta es la segunda vez que Vice City es la ciudad principal de un GTA.
+
+67
+00:04:08,506 --> 00:04:14,099
+La primera fue en Vice City, de dos mil dos, ambientado en los años ochenta.
+
+68
+00:04:14,099 --> 00:04:16,748
+La de GTA 6 es una Vice City actual.
+
+69
+00:04:16,748 --> 00:04:20,059
+Y aquí va una especulación, marcada como tal:
+
+70
+00:04:20,059 --> 00:04:24,400
+es muy probable que haya guiños a la ciudad de dos mil dos,
+
+71
+00:04:24,400 --> 00:04:26,608
+porque Rockstar suele hacerlo.
+
+72
+00:04:26,608 --> 00:04:31,096
+Pero de momento no hay ninguno confirmado oficialmente que yo
+
+73
+00:04:31,096 --> 00:04:33,304
+pueda señalarte con seguridad.
+
+74
+00:04:33,654 --> 00:04:37,062
+También hay una pista en los extras de reserva.
+
+75
+00:04:37,062 --> 00:04:42,139
+La bonificación por reservar el juego se llama Vintage Vice City Pack,
+
+76
+00:04:42,139 --> 00:04:44,242
+un pack vintage de Vice City.
+
+77
+00:04:44,242 --> 00:04:48,086
+El nombre ya te dice que Rockstar quiere jugar con la
+
+78
+00:04:48,086 --> 00:04:50,334
+nostalgia de la ciudad clásica.
+
+79
+00:04:50,334 --> 00:04:54,830
+Qué incluye en detalle lo veremos en el vídeo sobre ediciones.
+
+80
+00:04:55,180 --> 00:04:56,142
+Bajamos al sur.
+
+81
+00:04:56,142 --> 00:05:00,244
+Los Cayos de Leonida son una cadena de islas unidas por puentes,
+
+82
+00:05:00,244 --> 00:05:03,129
+inspirada claramente en los Cayos de Florida.
+
+83
+00:05:03,129 --> 00:05:05,373
+Agua turquesa, casas sobre pilotes,
+
+84
+00:05:05,373 --> 00:05:08,514
+pequeños puertos deportivos y bares de carretera.
+
+85
+00:05:08,864 --> 00:05:11,519
+Esta región tiene peso en la historia.
+
+86
+00:05:11,519 --> 00:05:16,689
+Según la descripción oficial de Jason Duval, uno de los dos protagonistas,
+
+87
+00:05:16,689 --> 00:05:20,601
+él vive en los Cayos y trabaja para traficantes locales.
+
+88
+00:05:20,601 --> 00:05:22,488
+Y su casero es Brian Heder,
+
+89
+00:05:22,488 --> 00:05:28,147
+un viejo contrabandista que lleva moviendo droga por los Cayos desde los ochenta.
+
+90
+00:05:28,147 --> 00:05:30,523
+Así que los Cayos no son decorado:
+
+91
+00:05:30,523 --> 00:05:33,177
+son el punto de partida del personaje.
+
+92
+00:05:33,527 --> 00:05:34,463
+Especulación:
+
+93
+00:05:34,463 --> 00:05:38,565
+mucha gente cree que el juego empieza aquí, en los Cayos,
+
+94
+00:05:38,565 --> 00:05:40,580
+antes de llegar a Vice City.
+
+95
+00:05:40,580 --> 00:05:46,554
+Tiene lógica por la historia de Jason y por cómo Rockstar suele abrir sus juegos en
+
+96
+00:05:46,554 --> 00:05:51,376
+una zona pequeña antes de soltarte en la gran ciudad. Pero insisto:
+
+97
+00:05:51,376 --> 00:05:52,743
+no está confirmado.
+
+98
+00:05:53,093 --> 00:05:56,282
+En el interior están los humedales: Grassrivers.
+
+99
+00:05:56,282 --> 00:05:59,139
+Es la versión de Leonida de los Everglades.
+
+100
+00:05:59,139 --> 00:06:04,255
+Aguas poco profundas, hierba alta, manglares y fauna salvaje. Y sí, caimanes.
+
+101
+00:06:04,255 --> 00:06:09,172
+El caimán es casi la mascota no oficial del juego desde el primer tráiler.
+
+102
+00:06:09,522 --> 00:06:12,582
+En el material oficial vemos aerodeslizadores,
+
+103
+00:06:12,582 --> 00:06:16,841
+esas barcas con hélice gigante detrás, recorriendo los pantanos.
+
+104
+00:06:16,841 --> 00:06:20,900
+Eso es importante porque nos dice que esta zona se recorre de
+
+105
+00:06:20,900 --> 00:06:23,096
+forma distinta al resto del mapa.
+
+106
+00:06:23,096 --> 00:06:24,892
+No es campo con carreteras:
+
+107
+00:06:24,892 --> 00:06:27,953
+es agua, barro y rutas que tienes que conocer.
+
+108
+00:06:28,303 --> 00:06:30,458
+Mi lectura, y esto es opinión:
+
+109
+00:06:30,458 --> 00:06:34,194
+Grassrivers va a ser la zona de los encargos sucios.
+
+110
+00:06:34,194 --> 00:06:39,080
+Escondites, entregas y persecuciones donde un coche normal no sirve.
+
+111
+00:06:39,080 --> 00:06:43,534
+Encaja con el tono de contrabando que rodea a Jason y a Brian.
+
+112
+00:06:43,534 --> 00:06:47,126
+Pero, de nuevo, es una interpretación, no un dato.
+
+113
+00:06:47,476 --> 00:06:50,903
+Al oeste, en la costa del golfo, está Port Gellhorn.
+
+114
+00:06:50,903 --> 00:06:54,527
+Rockstar la presenta como una ciudad que fue un destino
+
+115
+00:06:54,527 --> 00:06:57,163
+turístico y que ha ido perdiendo brillo.
+
+116
+00:06:57,163 --> 00:07:00,458
+Moteles baratos, centros comerciales medio vacíos,
+
+117
+00:07:00,458 --> 00:07:03,555
+gasolineras y una economía que se nota cansada.
+
+118
+00:07:03,905 --> 00:07:05,928
+Es la cara B de Vice City.
+
+119
+00:07:05,928 --> 00:07:12,229
+Si Vice City es el sueño, Port Gellhorn es lo que queda cuando el sueño se acaba.
+
+120
+00:07:12,229 --> 00:07:14,563
+Y en GTA eso siempre da juego,
+
+121
+00:07:14,563 --> 00:07:18,997
+porque es donde suelen aparecer los personajes más raros,
+
+122
+00:07:18,997 --> 00:07:23,121
+los negocios más turbios y las misiones más absurdas.
+
+123
+00:07:23,471 --> 00:07:26,216
+Un apunte para que no te confundas:
+
+124
+00:07:26,216 --> 00:07:32,647
+a veces verás que la gente llama a Port Gellhorn de otras formas o le pone apodos.
+
+125
+00:07:32,647 --> 00:07:38,373
+El nombre oficial es Port Gellhorn, el que aparece en la web de Rockstar.
+
+126
+00:07:38,723 --> 00:07:42,152
+Ambrosia está en el interior, junto al lago Leonida.
+
+127
+00:07:42,152 --> 00:07:47,428
+Lo que domina su horizonte es una enorme refinería de azúcar, la Allied Crystal.
+
+128
+00:07:47,428 --> 00:07:50,792
+Es una zona industrial y agrícola, de trabajo duro,
+
+129
+00:07:50,792 --> 00:07:53,232
+carreteras largas y pueblos pequeños.
+
+130
+00:07:53,582 --> 00:07:58,818
+Por cómo la presenta Rockstar, Ambrosia es el Leonida rural e industrial,
+
+131
+00:07:58,818 --> 00:08:00,969
+lejos del glamour de la costa.
+
+132
+00:08:00,969 --> 00:08:02,834
+Si buscas una comparación,
+
+133
+00:08:02,834 --> 00:08:07,567
+piensa en lo que era Blaine County respecto a Los Santos en GTA 5.
+
+134
+00:08:07,567 --> 00:08:12,014
+Esa comparación es mía, no de Rockstar, pero ayuda a situarse.
+
+135
+00:08:12,364 --> 00:08:14,949
+Y aquí hay algo interesante de diseño.
+
+136
+00:08:14,949 --> 00:08:20,051
+Tener una zona industrial en medio del mapa significa variedad de misiones:
+
+137
+00:08:20,051 --> 00:08:24,881
+robos de carga, camiones, persecuciones por carreteras rectas y largas.
+
+138
+00:08:24,881 --> 00:08:27,330
+Eso ya es especulación por mi parte,
+
+139
+00:08:27,330 --> 00:08:32,364
+pero es el tipo de zona que Rockstar suele usar para ese tipo de encargos.
+
+140
+00:08:32,714 --> 00:08:37,225
+La última región es el Parque Nacional del Monte Kalaga, al norte.
+
+141
+00:08:37,225 --> 00:08:39,754
+Bosques, ríos, senderos y naturaleza.
+
+142
+00:08:39,754 --> 00:08:42,077
+Es la zona más salvaje de Leonida,
+
+143
+00:08:42,077 --> 00:08:46,725
+y Rockstar la presenta como el lugar para perderse en la naturaleza.
+
+144
+00:08:46,725 --> 00:08:50,484
+Qué actividades concretas habrá ahí, como caza o pesca,
+
+145
+00:08:50,484 --> 00:08:53,081
+es algo que la comunidad da por hecho,
+
+146
+00:08:53,081 --> 00:08:56,635
+pero yo lo trataría como especulación hasta jugarlo.
+
+147
+00:08:56,985 --> 00:09:01,114
+Que haya un parque nacional dice mucho del tipo de juego.
+
+148
+00:09:01,114 --> 00:09:06,474
+Después de Red Dead Redemption 2, Rockstar sabe hacer naturaleza muy bien,
+
+149
+00:09:06,474 --> 00:09:11,326
+y todo apunta a que parte de esa experiencia se ha trasladado aquí.
+
+150
+00:09:11,326 --> 00:09:12,775
+En el Extended Look,
+
+151
+00:09:12,775 --> 00:09:17,193
+la cobertura de los medios menciona un sistema de interacción
+
+152
+00:09:17,193 --> 00:09:21,104
+con personas y animales que recuerda mucho a Red Dead.
+
+153
+00:09:21,104 --> 00:09:24,436
+Te lo cuento a fondo en el vídeo de mecánicas.
+
+154
+00:09:24,786 --> 00:09:25,829
+Una aclaración:
+
+155
+00:09:25,829 --> 00:09:28,541
+Florida real no tiene montañas grandes.
+
+156
+00:09:28,541 --> 00:09:31,461
+Así que Monte Kalaga, más que una montaña,
+
+157
+00:09:31,461 --> 00:09:34,521
+se presenta como una zona elevada y boscosa.
+
+158
+00:09:34,521 --> 00:09:36,468
+No esperes un Monte Chiliad.
+
+159
+00:09:36,468 --> 00:09:39,596
+De nuevo, la altura exacta no está publicada,
+
+160
+00:09:39,596 --> 00:09:44,394
+así que esto también es una lectura del material, no un dato oficial.
+
+161
+00:09:44,744 --> 00:09:48,876
+Un mapa no es solo lo que hay, también es cómo te mueves por él.
+
+162
+00:09:48,876 --> 00:09:51,846
+Y aquí los tráileres dan bastante información.
+
+163
+00:09:51,846 --> 00:09:56,882
+Vemos coches deportivos y clásicos por Vice City, camionetas en zonas rurales,
+
+164
+00:09:56,882 --> 00:10:01,078
+motos, lanchas, motos de agua y aerodeslizadores en los pantanos.
+
+165
+00:10:01,078 --> 00:10:05,921
+También aparecen helicópteros, sobre todo de policía, en las persecuciones.
+
+166
+00:10:06,271 --> 00:10:08,213
+La conclusión es sencilla:
+
+167
+00:10:08,213 --> 00:10:11,948
+el agua va a ser tan importante como la carretera.
+
+168
+00:10:11,948 --> 00:10:17,849
+Con los Cayos al sur, la costa del golfo al oeste y los humedales en el centro,
+
+169
+00:10:17,849 --> 00:10:23,451
+buena parte del mapa se entiende mejor desde una lancha que desde un coche.
+
+170
+00:10:23,451 --> 00:10:26,364
+Eso es una lectura mía de la geografía,
+
+171
+00:10:26,364 --> 00:10:29,800
+pero tiene mucho sentido viendo los tráileres.
+
+172
+00:10:30,150 --> 00:10:32,238
+Y hay otro detalle que se repite:
+
+173
+00:10:32,238 --> 00:10:33,631
+las autopistas largas.
+
+174
+00:10:33,631 --> 00:10:38,883
+Florida real está atravesada por carreteras rectas que unen ciudades muy separadas,
+
+175
+00:10:38,883 --> 00:10:40,972
+y Leonida parece copiar esa idea.
+
+176
+00:10:40,972 --> 00:10:45,718
+Eso significa trayectos más largos entre regiones y probablemente mucha más
+
+177
+00:10:45,718 --> 00:10:49,262
+importancia de la radio y del paisaje mientras conduces.
+
+178
+00:10:49,262 --> 00:10:54,072
+Lo de la duración de los trayectos, de nuevo, habrá que comprobarlo jugando.
+
+179
+00:10:54,422 --> 00:10:59,559
+Para entender el salto, compara con los mapas anteriores de la saga.
+
+180
+00:10:59,559 --> 00:11:05,528
+Vice City, en dos mil dos, era una ciudad con dos islas principales y poco más.
+
+181
+00:11:05,528 --> 00:11:10,212
+San Andreas, en dos mil cuatro, fue el primer estado completo,
+
+182
+00:11:10,212 --> 00:11:13,083
+con tres ciudades y campo entre ellas.
+
+183
+00:11:13,083 --> 00:11:19,127
+GTA 5, en dos mil trece, se centró en una sola ciudad, Los Santos, y su condado.
+
+184
+00:11:19,477 --> 00:11:23,945
+GTA 6 recupera la idea de San Andreas, la de un estado entero,
+
+185
+00:11:23,945 --> 00:11:27,979
+pero con la densidad de detalle de la generación actual.
+
+186
+00:11:27,979 --> 00:11:30,933
+Y esto sí lo podemos decir sin especular:
+
+187
+00:11:30,933 --> 00:11:35,761
+Rockstar ha nombrado seis regiones distintas, con identidad propia,
+
+188
+00:11:35,761 --> 00:11:41,020
+y en los tráileres se ve muchísima gente en la calle y muchos interiores.
+
+189
+00:11:41,020 --> 00:11:46,928
+Es un mapa pensado para que cada zona se sienta distinta, no solo para ser grande.
+
+190
+00:11:47,278 --> 00:11:49,949
+Y aquí te doy mi opinión sincera:
+
+191
+00:11:49,949 --> 00:11:55,210
+el tamaño en kilómetros cuadrados importa menos de lo que parece.
+
+192
+00:11:55,210 --> 00:11:59,985
+GTA 5 no era el mapa más grande de su época y aun así sigue
+
+193
+00:11:59,985 --> 00:12:02,495
+siendo uno de los más queridos,
+
+194
+00:12:02,495 --> 00:12:04,842
+porque estaba lleno de cosas.
+
+195
+00:12:04,842 --> 00:12:11,074
+Lo que va a decidir si Leonida es el mejor mapa de la saga no es cuánto mide,
+
+196
+00:12:11,074 --> 00:12:14,068
+sino cuánta vida hay en cada esquina.
+
+197
+00:12:14,068 --> 00:12:20,220
+Y por lo que enseñan los tráileres, la apuesta de Rockstar va justo por ahí.
+
+198
+00:12:20,570 --> 00:12:22,923
+Antes de seguir, un favor rápido.
+
+199
+00:12:22,923 --> 00:12:27,700
+Si este análisis te está sirviendo, suscríbete y activa la campana,
+
+200
+00:12:27,700 --> 00:12:32,548
+porque en este canal vamos a seguir todo GTA 6 con esta misma regla:
+
+201
+00:12:32,548 --> 00:12:35,757
+dato confirmado por un lado, teoría por otro.
+
+202
+00:12:35,757 --> 00:12:37,825
+Sin clickbait y sin inventar.
+
+203
+00:12:38,175 --> 00:12:39,374
+Ahora, lo honesto.
+
+204
+00:12:39,374 --> 00:12:41,640
+Hay cosas del mapa que no sabemos.
+
+205
+00:12:41,640 --> 00:12:43,572
+No sabemos el tamaño oficial.
+
+206
+00:12:43,572 --> 00:12:47,038
+No sabemos si hay más regiones aparte de estas seis.
+
+207
+00:12:47,038 --> 00:12:50,970
+No sabemos cuánto se puede explorar bajo el agua ni cuántos
+
+208
+00:12:50,970 --> 00:12:53,569
+edificios se pueden visitar por dentro,
+
+209
+00:12:53,569 --> 00:12:58,567
+aunque los tráileres enseñan muchos interiores, desde tiendas a discotecas.
+
+210
+00:12:58,917 --> 00:13:03,393
+Tampoco sabemos si el mapa estará abierto desde el principio o
+
+211
+00:13:03,393 --> 00:13:05,848
+si se irá desbloqueando por zonas.
+
+212
+00:13:05,848 --> 00:13:11,334
+En GTA 5 había una mezcla y en Red Dead 2 había zonas cerradas al principio.
+
+213
+00:13:11,334 --> 00:13:16,172
+Cualquier cosa que oigas sobre esto antes de jugar es especulación.
+
+214
+00:13:16,522 --> 00:13:19,794
+Lo que sí podemos decir con seguridad es esto:
+
+215
+00:13:19,794 --> 00:13:24,418
+Leonida es un estado completo, con ciudad, islas, pantano, costa,
+
+216
+00:13:24,418 --> 00:13:26,409
+zona rural y parque natural.
+
+217
+00:13:26,409 --> 00:13:31,816
+Y por variedad, es el mapa más ambicioso que Rockstar ha enseñado en un GTA.
+
+218
+00:13:32,166 --> 00:13:36,248
+Te dejo una recomendación personal, y es opinión, no dato.
+
+219
+00:13:36,248 --> 00:13:38,852
+Cuando tengas libertad de movimiento,
+
+220
+00:13:38,852 --> 00:13:44,272
+haz un recorrido por las seis regiones antes de obsesionarte con la historia.
+
+221
+00:13:44,272 --> 00:13:47,580
+Empieza por la costa de Vice City al atardecer.
+
+222
+00:13:47,580 --> 00:13:49,903
+Baja a los Cayos por los puentes.
+
+223
+00:13:49,903 --> 00:13:52,578
+Métete en los pantanos de Grassrivers.
+
+224
+00:13:52,578 --> 00:13:55,323
+Cruza al golfo y para en Port Gellhorn.
+
+225
+00:13:55,323 --> 00:13:57,575
+Sube por Ambrosia hacia el lago.
+
+226
+00:13:57,575 --> 00:13:59,617
+Y termina en el Monte Kalaga.
+
+227
+00:13:59,967 --> 00:14:05,290
+Ese recorrido te enseña el mapa entero, te da contexto para las misiones y,
+
+228
+00:14:05,290 --> 00:14:09,833
+si te gusta hacer fotos, te deja las mejores postales del juego.
+
+229
+00:14:09,833 --> 00:14:15,653
+Y si haces el recorrido, cuéntame en comentarios qué región te ha sorprendido más.
+
+230
+00:14:16,003 --> 00:14:18,890
+Y un consejo práctico para ese recorrido:
+
+231
+00:14:18,890 --> 00:14:20,439
+no lo hagas con prisa.
+
+232
+00:14:20,439 --> 00:14:26,283
+En los tráileres, gran parte de la gracia de Leonida está en los detalles pequeños:
+
+233
+00:14:26,283 --> 00:14:30,437
+la gente grabándose con el móvil, las tiendas de carretera,
+
+234
+00:14:30,437 --> 00:14:33,957
+los bares de playa o los animales en los pantanos.
+
+235
+00:14:33,957 --> 00:14:37,900
+Si vas directo de misión en misión, te los vas a perder.
+
+236
+00:14:37,900 --> 00:14:40,646
+Y si encuentras algo curioso, guárdalo,
+
+237
+00:14:40,646 --> 00:14:44,941
+porque en este canal vamos a hacer recopilaciones de secretos
+
+238
+00:14:44,941 --> 00:14:47,123
+con lo que encontréis vosotros,
+
+239
+00:14:47,123 --> 00:14:49,728
+citando siempre a quien lo descubrió.
+
+240
+00:14:50,078 --> 00:14:52,010
+Ahora ya sabes dónde estás.
+
+241
+00:14:52,010 --> 00:14:54,514
+La siguiente pregunta es con quién.
+
+242
+00:14:54,514 --> 00:15:00,022
+En el próximo vídeo reconstruyo toda la historia confirmada de Jason y Lucia:
+
+243
+00:15:00,022 --> 00:15:02,096
+quiénes son, de dónde vienen,
+
+244
+00:15:02,096 --> 00:15:06,531
+qué pasa con el ejército y por qué Lucia llama desde la cárcel
+
+245
+00:15:06,531 --> 00:15:08,606
+en el tráiler de lanzamiento.
+
+246
+00:15:08,606 --> 00:15:10,537
+Lo tienes aquí en pantalla.
+
+247
+00:15:10,537 --> 00:15:12,039
+Nos vemos en Leonida.
+
